@@ -1,0 +1,2703 @@
+{
+  "researched_at_local": "2026-10-22 Asia/Tbilisi",
+  "criteria": "TikTok scale 2–3x Instagram; working range 5–30k followers, not a rigid cutoff",
+  "responses": {
+    "vera.about": {
+      "status": "partial",
+      "platform": "tiktok",
+      "source_url": "https://www.tiktok.com/@vera.about",
+      "fetched_at": "2026-10-21T20:32:50.069994+00:00",
+      "missing_fields": [
+        "posts[0].is_pinned",
+        "posts[1].is_pinned",
+        "posts[2].is_pinned",
+        "posts[3].is_pinned",
+        "posts[4].is_pinned",
+        "posts[5].is_pinned",
+        "posts[6].is_pinned",
+        "posts[7].is_pinned",
+        "posts[8].is_pinned",
+        "posts[9].is_pinned"
+      ],
+      "warnings": [
+        "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed.",
+        "Only a bounded visible sample was collected. The platform's newest-post coverage and unknown pin status cannot be verified; statistics describe this sample only."
+      ],
+      "error": null,
+      "profile": {
+        "username": "vera.about",
+        "display_name": "ig: @vera.about ✨💄",
+        "bio": "обычные дни офисного сотрудника 5/2 🤍\n\nпо сотрудничеству тг: @kazachkovavera",
+        "followers": 5295,
+        "followers_raw": "5295",
+        "followers_is_approximate": false,
+        "metric_details": {
+          "followers": {
+            "value": 5295,
+            "display": "5295",
+            "precision": "reported",
+            "source": "statsV2.followerCount"
+          },
+          "following": {
+            "value": 56,
+            "display": "56",
+            "precision": "reported",
+            "source": "statsV2.followingCount"
+          },
+          "likes": {
+            "value": 262648,
+            "display": "262648",
+            "precision": "reported",
+            "source": "statsV2.heartCount"
+          },
+          "posts": {
+            "value": 212,
+            "display": "212",
+            "precision": "reported",
+            "source": "statsV2.videoCount"
+          }
+        },
+        "verified": false,
+        "private": false,
+        "public_contacts": [
+          {
+            "type": "social_handle",
+            "value": "@kazachkovavera",
+            "platform": "tiktok",
+            "source": "public_bio",
+            "evidence": "по сотрудничеству тг: @kazachkovavera"
+          }
+        ],
+        "external_links": [],
+        "source": "embedded_profile_json"
+      },
+      "posts": [
+        {
+          "id": "7699104715619159318",
+          "url": "https://www.tiktok.com/@vera.about/video/7699104715619159318",
+          "author": "vera.about",
+          "type": "video",
+          "published_at": "2026-10-21T12:58:33+00:00",
+          "is_pinned": null,
+          "caption": "что было в видео: • духи заказываю на randewoo по промокоду «10VERAA», он дает скидку 10 процентов при покупке от 2 500 р, еще и с акциями суммируется  • у меня гиперфиксация на мистах, так что одним я увлажняю с утра лицо, второй пшикаю на спонж, идеально легкое покрытие 💔  • теперь вы будете видеть новую электронную книгу во влогах, отзыв уже в телеграм-канале! меня зовут Вера, я та самая коллега, которая снимает влоги 📹 челлендж 10к подписчиков к концу года, подписывайся!",
+          "fetched_at": "2026-10-21T20:32:54.234489+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 4086,
+              "display": "4086",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 17,
+              "display": "17",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 35500,
+              "display": "35500",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 68,
+              "display": "68",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 444,
+              "display": "444",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 35500,
+          "likes": 4086,
+          "comments": 17
+        },
+        {
+          "id": "7697675739230997782",
+          "url": "https://www.tiktok.com/@vera.about/video/7697675739230997782",
+          "author": "vera.about",
+          "type": "video",
+          "published_at": "2026-10-17T16:33:23+00:00",
+          "is_pinned": null,
+          "caption": "что было в видео: 🖇️ тренировка в reshape я стала ходить на barre, влюбилась в направление 💔 обязательно идите к тренеру Алина Шевченко на Сретенке! 🖇️ десерты amore  попробуйте мороженое в виде конфет с карамелью и морской солью 🥹 это просто любовь с первого укуса! 🖇️ книга «спрячь мои тайны в саду» от inspiria я прочла её за пару вечеров, настолько было интересно, не забудьте включить специальный плейлист, как по мне, попадание в яблочко 🎯 точно в топе лучших за последнее время  меня зовут Вера, я та самая коллега, которая снимает влоги 📹 челлендж 10к подписчиков к концу года, подписывайся!",
+          "fetched_at": "2026-10-21T20:32:55.694997+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 601,
+              "display": "601",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 8,
+              "display": "8",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 5519,
+              "display": "5519",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 9,
+              "display": "9",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 88,
+              "display": "88",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 5519,
+          "likes": 601,
+          "comments": 8
+        },
+        {
+          "id": "7697272855909698838",
+          "url": "https://www.tiktok.com/@vera.about/video/7697272855909698838",
+          "author": "vera.about",
+          "type": "video",
+          "published_at": "2026-10-16T14:30:01+00:00",
+          "is_pinned": null,
+          "caption": "веду этот блог ровно год 💔 боже, как же сильно изменилась жизнь! а самое главное, как изменилась я за это время... нужно было всего лишь понять, что мечты ждать не будут, нужно за ними не то, что идти, БЕЖАТЬ 🖇️✨ спасибо мне из 2025 года, что я решила делиться своими мыслями своей жизнью. и спасибо вам, что всегда поддерживаете! с днём рождения, блог 🎂",
+          "fetched_at": "2026-10-21T20:32:57.503291+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 113,
+              "display": "113",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 0,
+              "display": "0",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 1480,
+              "display": "1480",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 1,
+              "display": "1",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 9,
+              "display": "9",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 1480,
+          "likes": 113,
+          "comments": 0
+        },
+        {
+          "id": "7696811055351205143",
+          "url": "https://www.tiktok.com/@vera.about/video/7696811055351205143",
+          "author": "vera.about",
+          "type": "video",
+          "published_at": "2026-10-15T08:37:59+00:00",
+          "is_pinned": null,
+          "caption": "девочки, записываем: выбираем образ + записываемся в студию @iamportrait  я забежала моделью к Арине, и какой получился результат!💔",
+          "fetched_at": "2026-10-21T20:32:58.948315+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 582,
+              "display": "582",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 0,
+              "display": "0",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 3968,
+              "display": "3968",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 6,
+              "display": "6",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 63,
+              "display": "63",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 3968,
+          "likes": 582,
+          "comments": 0
+        },
+        {
+          "id": "7695841626018647318",
+          "url": "https://www.tiktok.com/@vera.about/video/7695841626018647318",
+          "author": "vera.about",
+          "type": "video",
+          "published_at": "2026-10-12T17:56:07+00:00",
+          "is_pinned": null,
+          "caption": "я люблю рутину, но мне важно разбавлять её мини-приятностями, например, спонтанным ужином вне дома или новыми баночками 🧴✨  меня зовут Вера, я та самая коллега, которая снимает влоги 📹 челлендж 10к подписчиков к концу года, подписывайся!",
+          "fetched_at": "2026-10-21T20:33:00.540577+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 440,
+              "display": "440",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 3,
+              "display": "3",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 3401,
+              "display": "3401",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 2,
+              "display": "2",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 39,
+              "display": "39",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 3401,
+          "likes": 440,
+          "comments": 3
+        },
+        {
+          "id": "7694678765049400579",
+          "url": "https://www.tiktok.com/@vera.about/video/7694678765049400579",
+          "author": "vera.about",
+          "type": "video",
+          "published_at": "2026-10-09T14:43:36+00:00",
+          "is_pinned": null,
+          "caption": "вы иногда удивляетесь, как остаются силы после работы на мероприятия 😅 и я тоже в шоке, раньше после рабочего дня я могла только лежать без сил  помогла смена профессии и блог, который вдохновляет меня продолжать 🤍🪽 сегодня стала частью презентации «собери мои тайны в саду», inspiria — одно из любимых издательств, часто делюсь с вами их книгами а как вы проводите свои вечера после работы?",
+          "fetched_at": "2026-10-21T20:33:02.650358+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 1458,
+              "display": "1458",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 12,
+              "display": "12",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 10200,
+              "display": "10200",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 12,
+              "display": "12",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 127,
+              "display": "127",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 10200,
+          "likes": 1458,
+          "comments": 12
+        },
+        {
+          "id": "7693601300335856918",
+          "url": "https://www.tiktok.com/@vera.about/video/7693601300335856918",
+          "author": "vera.about",
+          "type": "video",
+          "published_at": "2026-10-06T17:02:29+00:00",
+          "is_pinned": null,
+          "caption": "не осуждайте меня, я снова вернулась к покрытию гель-лаком 🥲 как будто соскучилась по нему, поэтому сегодня иду на маникюр в конце хвастаюсь новыми баночками, пишите, если нужны артикулы 🤍✨ меня зовут Вера, я та самая коллега, которая снимает влоги 📹 челлендж 10к подписчиков к концу года, подписывайся!",
+          "fetched_at": "2026-10-21T20:33:04.008042+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 2088,
+              "display": "2088",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 3,
+              "display": "3",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 15400,
+              "display": "15400",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 12,
+              "display": "12",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 146,
+              "display": "146",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 15400,
+          "likes": 2088,
+          "comments": 3
+        },
+        {
+          "id": "7692872468247285015",
+          "url": "https://www.tiktok.com/@vera.about/video/7692872468247285015",
+          "author": "vera.about",
+          "type": "video",
+          "published_at": "2026-10-04T17:54:15+00:00",
+          "is_pinned": null,
+          "caption": "для меня одним из признаков здоровых отношений является желание, чтобы партнер отдыхал и занимался тем, что ему нравится  фильмы, книги, сериалы, игры, честно говоря, в современности разницы в них особо не вижу (хотя сама читаю по 40-50 книг в год), лишь бы вдохновляло и переключало из реальности на пару часов, чтобы окончательно не сойти с ума но у адекватного человека, в целом, хобби не будет важнее реальной жизни и семьи, а если так происходит, то проблема не в хобби, а в человеке 👀 меня зовут Вера, я та самая коллега, которая снимает влоги 📹 челлендж 10к подписчиков к концу года, подписывайся 🤍",
+          "fetched_at": "2026-10-21T20:33:05.563420+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 161,
+              "display": "161",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 7,
+              "display": "7",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 2431,
+              "display": "2431",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 4,
+              "display": "4",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 12,
+              "display": "12",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 2431,
+          "likes": 161,
+          "comments": 7
+        },
+        {
+          "id": "7692471451944750358",
+          "url": "https://www.tiktok.com/@vera.about/video/7692471451944750358",
+          "author": "vera.about",
+          "type": "video",
+          "published_at": "2026-10-03T15:58:03+00:00",
+          "is_pinned": null,
+          "caption": "вам очень понравилось прошлое видео с уборкой, решила показать нашу версию экспресс-уборки ✨ меня зовут Вера, я та самая коллега, которая снимает влоги 📹 челлендж 10к подписчиков к концу года, подписывайся 🤍",
+          "fetched_at": "2026-10-21T20:33:06.921155+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 5898,
+              "display": "5898",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 11,
+              "display": "11",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 38200,
+              "display": "38200",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 37,
+              "display": "37",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 572,
+              "display": "572",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 38200,
+          "likes": 5898,
+          "comments": 11
+        },
+        {
+          "id": "7691752529717202198",
+          "url": "https://www.tiktok.com/@vera.about/video/7691752529717202198",
+          "author": "vera.about",
+          "type": "video",
+          "published_at": "2026-10-01T17:28:19+00:00",
+          "is_pinned": null,
+          "caption": "ответ на главный вопрос про наш евротур ✨ меня зовут Вера, я та самая коллега, которая снимает влоги 📹 челлендж 10к подписчиков к концу года, подписывайся 🤍",
+          "fetched_at": "2026-10-21T20:33:08.467300+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 2859,
+              "display": "2859",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 14,
+              "display": "14",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 26600,
+              "display": "26600",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 380,
+              "display": "380",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 587,
+              "display": "587",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 26600,
+          "likes": 2859,
+          "comments": 14
+        }
+      ],
+      "pinned_posts_skipped": [],
+      "summary": {
+        "posts_requested": 10,
+        "posts_collected": 10,
+        "posts_with_views": 10,
+        "median_views": 7859.5,
+        "min_views": 1480,
+        "max_views": 38200,
+        "sample_date_from": "2026-10-01T17:28:19+00:00",
+        "sample_date_to": "2026-10-21T12:58:33+00:00",
+        "pinned_excluded": 0,
+        "pin_status_unknown": 10,
+        "chronological_completeness_verified": false,
+        "views_are_unique_reach": false,
+        "posts_inspected": 13,
+        "pinned_candidates_skipped": 0
+      },
+      "duration_seconds": 28.91
+    },
+    "vi_olks": {
+      "status": "partial",
+      "platform": "tiktok",
+      "source_url": "https://www.tiktok.com/@vi_olks",
+      "fetched_at": "2026-10-21T20:33:24.381819+00:00",
+      "missing_fields": [
+        "posts[0].is_pinned",
+        "posts[1].is_pinned",
+        "posts[2].is_pinned",
+        "posts[3].is_pinned",
+        "posts[4].is_pinned",
+        "posts[5].is_pinned",
+        "posts[6].is_pinned",
+        "posts[7].is_pinned",
+        "posts[8].is_pinned",
+        "posts[9].is_pinned"
+      ],
+      "warnings": [
+        "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed.",
+        "Only a bounded visible sample was collected. The platform's newest-post coverage and unknown pin status cannot be verified; statistics describe this sample only."
+      ],
+      "error": null,
+      "profile": {
+        "username": "vi_olks",
+        "display_name": "ТГК: Своя Лера🌸",
+        "bio": "Победила депрессию, бегаю в 4 утра, красиво одеваюсь и крашусь",
+        "followers": 21430,
+        "followers_raw": "21430",
+        "followers_is_approximate": false,
+        "metric_details": {
+          "followers": {
+            "value": 21430,
+            "display": "21430",
+            "precision": "reported",
+            "source": "statsV2.followerCount"
+          },
+          "following": {
+            "value": 143,
+            "display": "143",
+            "precision": "reported",
+            "source": "statsV2.followingCount"
+          },
+          "likes": {
+            "value": 4098381,
+            "display": "4098381",
+            "precision": "reported",
+            "source": "statsV2.heartCount"
+          },
+          "posts": {
+            "value": 1547,
+            "display": "1547",
+            "precision": "reported",
+            "source": "statsV2.videoCount"
+          }
+        },
+        "verified": false,
+        "private": false,
+        "public_contacts": [],
+        "external_links": [],
+        "source": "embedded_profile_json"
+      },
+      "posts": [
+        {
+          "id": "7698751761842212116",
+          "url": "https://www.tiktok.com/@vi_olks/video/7698751761842212116",
+          "author": "vi_olks",
+          "type": "video",
+          "published_at": "2026-10-20T14:08:59+00:00",
+          "is_pinned": null,
+          "caption": "Подпись: Рандомные подробности моего утра: 1. Сменила бег на рандомные тренировки. Но все таки задумалась над покупкой беговой дорожки 2. Вот этот тоник-спрей от RICHE я очень полюбила в своей рутине, вы и сами могли заметить. Я сейчас его пшикаю постоянно еще в макияже, чтобы дополнительно делать его более увлажняющим и сияющим и вы посмотрите как из-за этого выглядит итоговый макияж😍 Брала на озоне, артикул: #1008343536 3. Встать в 4 утра после отпуска в 3 недели было не так тяжело, сколько осознавать, что работа продлиться сутки",
+          "fetched_at": "2026-10-21T20:33:25.936411+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 1240,
+              "display": "1240",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 13,
+              "display": "13",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 11800,
+              "display": "11800",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 9,
+              "display": "9",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 67,
+              "display": "67",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 11800,
+          "likes": 1240,
+          "comments": 13
+        },
+        {
+          "id": "7698348846358859029",
+          "url": "https://www.tiktok.com/@vi_olks/video/7698348846358859029",
+          "author": "vi_olks",
+          "type": "video",
+          "published_at": "2026-10-19T12:05:23+00:00",
+          "is_pinned": null,
+          "caption": "Хочу сделать новую рубрику ",
+          "fetched_at": "2026-10-21T20:33:28.934561+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 1116,
+              "display": "1116",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 22,
+              "display": "22",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 10700,
+              "display": "10700",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 1,
+              "display": "1",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 42,
+              "display": "42",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 10700,
+          "likes": 1116,
+          "comments": 22
+        },
+        {
+          "id": "7698287644794473749",
+          "url": "https://www.tiktok.com/@vi_olks/video/7698287644794473749",
+          "author": "vi_olks",
+          "type": "video",
+          "published_at": "2026-10-19T08:07:53+00:00",
+          "is_pinned": null,
+          "caption": "После 3 недель отдыха🧘‍♀️",
+          "fetched_at": "2026-10-21T20:33:30.471097+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 4935,
+              "display": "4935",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 12,
+              "display": "12",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 27300,
+              "display": "27300",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 55,
+              "display": "55",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 195,
+              "display": "195",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 27300,
+          "likes": 4935,
+          "comments": 12
+        },
+        {
+          "id": "7698018329335844116",
+          "url": "https://www.tiktok.com/@vi_olks/video/7698018329335844116",
+          "author": "vi_olks",
+          "type": "video",
+          "published_at": "2026-10-18T14:42:48+00:00",
+          "is_pinned": null,
+          "caption": "",
+          "fetched_at": "2026-10-21T20:33:32.926323+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 525,
+              "display": "525",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 4,
+              "display": "4",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 6321,
+              "display": "6321",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 0,
+              "display": "0",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 26,
+              "display": "26",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 6321,
+          "likes": 525,
+          "comments": 4
+        },
+        {
+          "id": "7697983789548555540",
+          "url": "https://www.tiktok.com/@vi_olks/video/7697983789548555540",
+          "author": "vi_olks",
+          "type": "video",
+          "published_at": "2026-10-18T12:28:44+00:00",
+          "is_pinned": null,
+          "caption": "Яйцо я реально бросила на пол)",
+          "fetched_at": "2026-10-21T20:33:34.258001+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 1975,
+              "display": "1975",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 5,
+              "display": "5",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 17700,
+              "display": "17700",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 101,
+              "display": "101",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 38,
+              "display": "38",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 17700,
+          "likes": 1975,
+          "comments": 5
+        },
+        {
+          "id": "7696903478337162516",
+          "url": "https://www.tiktok.com/@vi_olks/video/7696903478337162516",
+          "author": "vi_olks",
+          "type": "video",
+          "published_at": "2026-10-15T14:36:37+00:00",
+          "is_pinned": null,
+          "caption": "",
+          "fetched_at": "2026-10-21T20:33:37.958796+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 992,
+              "display": "992",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 18,
+              "display": "18",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 8201,
+              "display": "8201",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 1,
+              "display": "1",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 34,
+              "display": "34",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 8201,
+          "likes": 992,
+          "comments": 18
+        },
+        {
+          "id": "7696810549677591828",
+          "url": "https://www.tiktok.com/@vi_olks/video/7696810549677591828",
+          "author": "vi_olks",
+          "type": "video",
+          "published_at": "2026-10-15T08:36:01+00:00",
+          "is_pinned": null,
+          "caption": "💖🌸",
+          "fetched_at": "2026-10-21T20:33:39.463801+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 1356,
+              "display": "1356",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 7,
+              "display": "7",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 13300,
+              "display": "13300",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 10,
+              "display": "10",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 47,
+              "display": "47",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 13300,
+          "likes": 1356,
+          "comments": 7
+        },
+        {
+          "id": "7696529246809787668",
+          "url": "https://www.tiktok.com/@vi_olks/video/7696529246809787668",
+          "author": "vi_olks",
+          "type": "video",
+          "published_at": "2026-10-14T14:24:22+00:00",
+          "is_pinned": null,
+          "caption": "Пишите, что думаете! Я очень хочу обсудить, уже весь тикток облазила😁🙏",
+          "fetched_at": "2026-10-21T20:33:41.193203+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 2120,
+              "display": "2120",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 14,
+              "display": "14",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 25100,
+              "display": "25100",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 49,
+              "display": "49",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 168,
+              "display": "168",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 25100,
+          "likes": 2120,
+          "comments": 14
+        },
+        {
+          "id": "7696477120586960148",
+          "url": "https://www.tiktok.com/@vi_olks/video/7696477120586960148",
+          "author": "vi_olks",
+          "type": "video",
+          "published_at": "2026-10-14T11:02:09+00:00",
+          "is_pinned": null,
+          "caption": "Не, ну только мы так могли!",
+          "fetched_at": "2026-10-21T20:33:43.083806+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 665,
+              "display": "665",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 1,
+              "display": "1",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 5492,
+              "display": "5492",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 4,
+              "display": "4",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 10,
+              "display": "10",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 5492,
+          "likes": 665,
+          "comments": 1
+        },
+        {
+          "id": "7696474433900285205",
+          "url": "https://www.tiktok.com/@vi_olks/video/7696474433900285205",
+          "author": "vi_olks",
+          "type": "video",
+          "published_at": "2026-10-14T10:51:41+00:00",
+          "is_pinned": null,
+          "caption": "Знакомо?",
+          "fetched_at": "2026-10-21T20:33:44.964184+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 1782,
+              "display": "1782",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 18,
+              "display": "18",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 16300,
+              "display": "16300",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 30,
+              "display": "30",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 174,
+              "display": "174",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 16300,
+          "likes": 1782,
+          "comments": 18
+        }
+      ],
+      "pinned_posts_skipped": [],
+      "summary": {
+        "posts_requested": 10,
+        "posts_collected": 10,
+        "posts_with_views": 10,
+        "median_views": 12550,
+        "min_views": 5492,
+        "max_views": 27300,
+        "sample_date_from": "2026-10-14T10:51:41+00:00",
+        "sample_date_to": "2026-10-20T14:08:59+00:00",
+        "pinned_excluded": 0,
+        "pin_status_unknown": 10,
+        "chronological_completeness_verified": false,
+        "views_are_unique_reach": false,
+        "posts_inspected": 13,
+        "pinned_candidates_skipped": 0
+      },
+      "duration_seconds": 32.89
+    },
+    "k1sanii": {
+      "status": "partial",
+      "platform": "tiktok",
+      "source_url": "https://www.tiktok.com/@k1sanii",
+      "fetched_at": "2026-10-21T20:34:06.824999+00:00",
+      "missing_fields": [
+        "posts[0].is_pinned",
+        "posts[1].is_pinned",
+        "posts[2].is_pinned",
+        "posts[3].is_pinned",
+        "posts[4].is_pinned",
+        "posts[5].is_pinned",
+        "posts[6].is_pinned",
+        "posts[7].is_pinned",
+        "posts[8].is_pinned",
+        "posts[9].is_pinned"
+      ],
+      "warnings": [
+        "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed.",
+        "Only a bounded visible sample was collected. The platform's newest-post coverage and unknown pin status cannot be verified; statistics describe this sample only."
+      ],
+      "error": null,
+      "profile": {
+        "username": "k1sanii",
+        "display_name": "тгк: кисани",
+        "bio": "лайфстайл и бьюти 🫧🎟️\nсотрудничество тг @prk1sanii @ferymioo @manager_988 @OVERLYagent\n📩ksaniii474@gmail.com\n📍Brest",
+        "followers": 11322,
+        "followers_raw": "11322",
+        "followers_is_approximate": false,
+        "metric_details": {
+          "followers": {
+            "value": 11322,
+            "display": "11322",
+            "precision": "reported",
+            "source": "statsV2.followerCount"
+          },
+          "following": {
+            "value": 11,
+            "display": "11",
+            "precision": "reported",
+            "source": "statsV2.followingCount"
+          },
+          "likes": {
+            "value": 756225,
+            "display": "756225",
+            "precision": "reported",
+            "source": "statsV2.heartCount"
+          },
+          "posts": {
+            "value": 84,
+            "display": "84",
+            "precision": "reported",
+            "source": "statsV2.videoCount"
+          }
+        },
+        "verified": false,
+        "private": false,
+        "public_contacts": [
+          {
+            "type": "email",
+            "value": "ksaniii474@gmail.com",
+            "source": "public_bio"
+          },
+          {
+            "type": "social_handle",
+            "value": "@prk1sanii",
+            "platform": "tiktok",
+            "source": "public_bio",
+            "evidence": "сотрудничество тг @prk1sanii @ferymioo @manager_988 @OVERLYagent"
+          },
+          {
+            "type": "social_handle",
+            "value": "@ferymioo",
+            "platform": "tiktok",
+            "source": "public_bio",
+            "evidence": "сотрудничество тг @prk1sanii @ferymioo @manager_988 @OVERLYagent"
+          },
+          {
+            "type": "social_handle",
+            "value": "@manager_988",
+            "platform": "tiktok",
+            "source": "public_bio",
+            "evidence": "сотрудничество тг @prk1sanii @ferymioo @manager_988 @OVERLYagent"
+          },
+          {
+            "type": "social_handle",
+            "value": "@OVERLYagent",
+            "platform": "tiktok",
+            "source": "public_bio",
+            "evidence": "сотрудничество тг @prk1sanii @ferymioo @manager_988 @OVERLYagent"
+          }
+        ],
+        "external_links": [
+          "https://t.me/kissanii"
+        ],
+        "source": "embedded_profile_json"
+      },
+      "posts": [
+        {
+          "id": "7698705051623214356",
+          "url": "https://www.tiktok.com/@k1sanii/video/7698705051623214356",
+          "author": "k1sanii",
+          "type": "video",
+          "published_at": "2026-10-20T11:07:39+00:00",
+          "is_pinned": null,
+          "caption": "пеньюар брала в тгк desair_store 🎀 маска для волос вб 367768102 💓 #mymorning #утропередработой #уходзаволосами #уходзасобой #утро",
+          "fetched_at": "2026-10-21T20:34:09.834489+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 6442,
+              "display": "6442",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 43,
+              "display": "43",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 51500,
+              "display": "51500",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 68,
+              "display": "68",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 1058,
+              "display": "1058",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 51500,
+          "likes": 6442,
+          "comments": 43
+        },
+        {
+          "id": "7696901903782776070",
+          "url": "https://www.tiktok.com/@k1sanii/video/7696901903782776070",
+          "author": "k1sanii",
+          "type": "video",
+          "published_at": "2026-10-15T14:30:30+00:00",
+          "is_pinned": null,
+          "caption": "#минивлог #мойдень #celimax #celimaxсотруднивество #спокойныйвлог ",
+          "fetched_at": "2026-10-21T20:34:11.859458+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 846,
+              "display": "846",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 3,
+              "display": "3",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 5836,
+              "display": "5836",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 4,
+              "display": "4",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 45,
+              "display": "45",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 5836,
+          "likes": 846,
+          "comments": 3
+        },
+        {
+          "id": "7696084222590602517",
+          "url": "https://www.tiktok.com/@k1sanii/video/7696084222590602517",
+          "author": "k1sanii",
+          "type": "video",
+          "published_at": "2026-10-13T09:37:37+00:00",
+          "is_pinned": null,
+          "caption": "#катяроманова ",
+          "fetched_at": "2026-10-21T20:34:14.653852+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 317,
+              "display": "317",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 1,
+              "display": "1",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 4237,
+              "display": "4237",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 1,
+              "display": "1",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 18,
+              "display": "18",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 4237,
+          "likes": 317,
+          "comments": 1
+        },
+        {
+          "id": "7695668601671453973",
+          "url": "https://www.tiktok.com/@k1sanii/video/7695668601671453973",
+          "author": "k1sanii",
+          "type": "video",
+          "published_at": "2026-10-12T06:44:40+00:00",
+          "is_pinned": null,
+          "caption": "#минивлог #тихаяжизнь #настройкарекомендаций #calmlife #мойдень ",
+          "fetched_at": "2026-10-21T20:34:16.844521+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 1049,
+              "display": "1049",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 15,
+              "display": "15",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 6559,
+              "display": "6559",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 13,
+              "display": "13",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 77,
+              "display": "77",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 6559,
+          "likes": 1049,
+          "comments": 15
+        },
+        {
+          "id": "7695397601029491989",
+          "url": "https://www.tiktok.com/@k1sanii/video/7695397601029491989",
+          "author": "k1sanii",
+          "type": "video",
+          "published_at": "2026-10-11T13:13:01+00:00",
+          "is_pinned": null,
+          "caption": "#grwmroutine #моймакияж #грвм #историяреддит #grwmmakeup ",
+          "fetched_at": "2026-10-21T20:34:18.807610+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 832,
+              "display": "832",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 20,
+              "display": "20",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 9237,
+              "display": "9237",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 6,
+              "display": "6",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 87,
+              "display": "87",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 9237,
+          "likes": 832,
+          "comments": 20
+        },
+        {
+          "id": "7695016816833318150",
+          "url": "https://www.tiktok.com/@k1sanii/video/7695016816833318150",
+          "author": "k1sanii",
+          "type": "video",
+          "published_at": "2026-10-10T12:35:24+00:00",
+          "is_pinned": null,
+          "caption": "WW1193538 - арт на черный лонг; WW1193532 - арт на белый лонг #минивлог #тихийвлог #мойвыходной #мойдень ",
+          "fetched_at": "2026-10-21T20:34:20.980169+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 876,
+              "display": "876",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 4,
+              "display": "4",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 7977,
+              "display": "7977",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 15,
+              "display": "15",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 116,
+              "display": "116",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 7977,
+          "likes": 876,
+          "comments": 4
+        },
+        {
+          "id": "7694509447296634132",
+          "url": "https://www.tiktok.com/@k1sanii/video/7694509447296634132",
+          "author": "k1sanii",
+          "type": "video",
+          "published_at": "2026-10-09T03:46:36+00:00",
+          "is_pinned": null,
+          "caption": "",
+          "fetched_at": "2026-10-21T20:34:22.278150+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 206,
+              "display": "206",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 3,
+              "display": "3",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 3656,
+              "display": "3656",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 0,
+              "display": "0",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 16,
+              "display": "16",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 3656,
+          "likes": 206,
+          "comments": 3
+        },
+        {
+          "id": "7694231395211676948",
+          "url": "https://www.tiktok.com/@k1sanii/video/7694231395211676948",
+          "author": "k1sanii",
+          "type": "video",
+          "published_at": "2026-10-08T09:47:33+00:00",
+          "is_pinned": null,
+          "caption": "#бюджетныйпарфюм #идеальныйпарфюм #парфюмназиму #ninaricci #парфюмягодный @iparfumby",
+          "fetched_at": "2026-10-21T20:34:23.526297+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 263,
+              "display": "263",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 3,
+              "display": "3",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 4349,
+              "display": "4349",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 6,
+              "display": "6",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 83,
+              "display": "83",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 4349,
+          "likes": 263,
+          "comments": 3
+        },
+        {
+          "id": "7693892049338158342",
+          "url": "https://www.tiktok.com/@k1sanii/video/7693892049338158342",
+          "author": "k1sanii",
+          "type": "video",
+          "published_at": "2026-10-07T11:50:45+00:00",
+          "is_pinned": null,
+          "caption": "делать влоги с озвучкой или без? #минивлог #тихаяжизнь #настраиваюрекомендации #мойвыходной #спокойныйвечер ",
+          "fetched_at": "2026-10-21T20:34:24.769310+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 3562,
+              "display": "3562",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 26,
+              "display": "26",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 19700,
+              "display": "19700",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 36,
+              "display": "36",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 347,
+              "display": "347",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 19700,
+          "likes": 3562,
+          "comments": 26
+        },
+        {
+          "id": "7693529493461388564",
+          "url": "https://www.tiktok.com/@k1sanii/video/7693529493461388564",
+          "author": "k1sanii",
+          "type": "video",
+          "published_at": "2026-10-06T12:23:49+00:00",
+          "is_pinned": null,
+          "caption": "#минивлог #тихийвлог #настраиваюрекомендации #тихийвечер #моярутина ",
+          "fetched_at": "2026-10-21T20:34:26.091900+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 941,
+              "display": "941",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 5,
+              "display": "5",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 6561,
+              "display": "6561",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 9,
+              "display": "9",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 84,
+              "display": "84",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 6561,
+          "likes": 941,
+          "comments": 5
+        }
+      ],
+      "pinned_posts_skipped": [],
+      "summary": {
+        "posts_requested": 10,
+        "posts_collected": 10,
+        "posts_with_views": 10,
+        "median_views": 6560,
+        "min_views": 3656,
+        "max_views": 51500,
+        "sample_date_from": "2026-10-06T12:23:49+00:00",
+        "sample_date_to": "2026-10-20T11:07:39+00:00",
+        "pinned_excluded": 0,
+        "pin_status_unknown": 10,
+        "chronological_completeness_verified": false,
+        "views_are_unique_reach": false,
+        "posts_inspected": 13,
+        "pinned_candidates_skipped": 0
+      },
+      "duration_seconds": 29.9
+    },
+    "sirenaaa.oll": {
+      "status": "partial",
+      "platform": "tiktok",
+      "source_url": "https://www.tiktok.com/@sirenaaa.oll",
+      "fetched_at": "2026-10-21T20:34:43.423287+00:00",
+      "missing_fields": [
+        "posts[0].is_pinned",
+        "posts[1].is_pinned",
+        "posts[2].is_pinned",
+        "posts[3].is_pinned",
+        "posts[4].is_pinned",
+        "posts[5].is_pinned",
+        "posts[6].is_pinned",
+        "posts[7].is_pinned",
+        "posts[8].is_pinned",
+        "posts[9].is_pinned"
+      ],
+      "warnings": [
+        "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed.",
+        "Only a bounded visible sample was collected. The platform's newest-post coverage and unknown pin status cannot be verified; statistics describe this sample only."
+      ],
+      "error": null,
+      "profile": {
+        "username": "sirenaaa.oll",
+        "display_name": "sirenaaa.oll",
+        "bio": "влоги из моей обычной жизни 🤍\nсотрудничество:\nтг: @anastasmedia",
+        "followers": 4528,
+        "followers_raw": "4528",
+        "followers_is_approximate": false,
+        "metric_details": {
+          "followers": {
+            "value": 4528,
+            "display": "4528",
+            "precision": "reported",
+            "source": "statsV2.followerCount"
+          },
+          "following": {
+            "value": 69,
+            "display": "69",
+            "precision": "reported",
+            "source": "statsV2.followingCount"
+          },
+          "likes": {
+            "value": 201459,
+            "display": "201459",
+            "precision": "reported",
+            "source": "statsV2.heartCount"
+          },
+          "posts": {
+            "value": 427,
+            "display": "427",
+            "precision": "reported",
+            "source": "statsV2.videoCount"
+          }
+        },
+        "verified": false,
+        "private": false,
+        "public_contacts": [],
+        "external_links": [],
+        "source": "embedded_profile_json"
+      },
+      "posts": [
+        {
+          "id": "7699200929471434002",
+          "url": "https://www.tiktok.com/@sirenaaa.oll/video/7699200929471434002",
+          "author": "sirenaaa.oll",
+          "type": "video",
+          "published_at": "2026-10-21T19:11:58+00:00",
+          "is_pinned": null,
+          "caption": "тгк: sirena_oll",
+          "fetched_at": "2026-10-21T20:34:47.446494+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 160,
+              "display": "160",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 2,
+              "display": "2",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 4066,
+              "display": "4066",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 0,
+              "display": "0",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 20,
+              "display": "20",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 4066,
+          "likes": 160,
+          "comments": 2
+        },
+        {
+          "id": "7699017896030129426",
+          "url": "https://www.tiktok.com/@sirenaaa.oll/video/7699017896030129426",
+          "author": "sirenaaa.oll",
+          "type": "video",
+          "published_at": "2026-10-21T07:21:39+00:00",
+          "is_pinned": null,
+          "caption": "тгк: sirena_oll ",
+          "fetched_at": "2026-10-21T20:34:49.374263+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 208,
+              "display": "208",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 7,
+              "display": "7",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 3522,
+              "display": "3522",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 0,
+              "display": "0",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 9,
+              "display": "9",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 3522,
+          "likes": 208,
+          "comments": 7
+        },
+        {
+          "id": "7698756784411987218",
+          "url": "https://www.tiktok.com/@sirenaaa.oll/video/7698756784411987218",
+          "author": "sirenaaa.oll",
+          "type": "video",
+          "published_at": "2026-10-20T14:28:30+00:00",
+          "is_pinned": null,
+          "caption": "",
+          "fetched_at": "2026-10-21T20:34:51.859210+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 61,
+              "display": "61",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 2,
+              "display": "2",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 659,
+              "display": "659",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 1,
+              "display": "1",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 7,
+              "display": "7",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 659,
+          "likes": 61,
+          "comments": 2
+        },
+        {
+          "id": "7698656800702270738",
+          "url": "https://www.tiktok.com/@sirenaaa.oll/video/7698656800702270738",
+          "author": "sirenaaa.oll",
+          "type": "video",
+          "published_at": "2026-10-20T08:00:27+00:00",
+          "is_pinned": null,
+          "caption": "тгк: sirena_oll",
+          "fetched_at": "2026-10-21T20:34:53.574437+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 173,
+              "display": "173",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 4,
+              "display": "4",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 3951,
+              "display": "3951",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 0,
+              "display": "0",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 3,
+              "display": "3",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 3951,
+          "likes": 173,
+          "comments": 4
+        },
+        {
+          "id": "7698434284989746450",
+          "url": "https://www.tiktok.com/@sirenaaa.oll/video/7698434284989746450",
+          "author": "sirenaaa.oll",
+          "type": "video",
+          "published_at": "2026-10-19T17:37:02+00:00",
+          "is_pinned": null,
+          "caption": "тгк: sirena_oll ",
+          "fetched_at": "2026-10-21T20:34:54.950547+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 351,
+              "display": "351",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 10,
+              "display": "10",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 5365,
+              "display": "5365",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 0,
+              "display": "0",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 25,
+              "display": "25",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 5365,
+          "likes": 351,
+          "comments": 10
+        },
+        {
+          "id": "7697175532500241672",
+          "url": "https://www.tiktok.com/@sirenaaa.oll/video/7697175532500241672",
+          "author": "sirenaaa.oll",
+          "type": "video",
+          "published_at": "2026-10-16T08:12:25+00:00",
+          "is_pinned": null,
+          "caption": "тгк: sirena_oll ",
+          "fetched_at": "2026-10-21T20:34:56.399985+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 447,
+              "display": "447",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 13,
+              "display": "13",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 8830,
+              "display": "8830",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 4,
+              "display": "4",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 36,
+              "display": "36",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 8830,
+          "likes": 447,
+          "comments": 13
+        },
+        {
+          "id": "7696795398672862472",
+          "url": "https://www.tiktok.com/@sirenaaa.oll/video/7696795398672862472",
+          "author": "sirenaaa.oll",
+          "type": "video",
+          "published_at": "2026-10-15T07:37:16+00:00",
+          "is_pinned": null,
+          "caption": "тгк: sirena_oll ",
+          "fetched_at": "2026-10-21T20:34:57.729848+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 971,
+              "display": "971",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 11,
+              "display": "11",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 11500,
+              "display": "11500",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 6,
+              "display": "6",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 55,
+              "display": "55",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 11500,
+          "likes": 971,
+          "comments": 11
+        },
+        {
+          "id": "7696416960132680967",
+          "url": "https://www.tiktok.com/@sirenaaa.oll/video/7696416960132680967",
+          "author": "sirenaaa.oll",
+          "type": "video",
+          "published_at": "2026-10-14T07:08:41+00:00",
+          "is_pinned": null,
+          "caption": "тгк: sirena_oll",
+          "fetched_at": "2026-10-21T20:34:59.027856+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 268,
+              "display": "268",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 4,
+              "display": "4",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 4252,
+              "display": "4252",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 4,
+              "display": "4",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 11,
+              "display": "11",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 4252,
+          "likes": 268,
+          "comments": 4
+        },
+        {
+          "id": "7696059382991195398",
+          "url": "https://www.tiktok.com/@sirenaaa.oll/video/7696059382991195398",
+          "author": "sirenaaa.oll",
+          "type": "video",
+          "published_at": "2026-10-13T08:01:06+00:00",
+          "is_pinned": null,
+          "caption": "сегодня на работу без макияжа 👼",
+          "fetched_at": "2026-10-21T20:35:00.476123+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 2267,
+              "display": "2267",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 15,
+              "display": "15",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 50000,
+              "display": "50000",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 19,
+              "display": "19",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 180,
+              "display": "180",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 50000,
+          "likes": 2267,
+          "comments": 15
+        },
+        {
+          "id": "7695816185585143058",
+          "url": "https://www.tiktok.com/@sirenaaa.oll/video/7695816185585143058",
+          "author": "sirenaaa.oll",
+          "type": "video",
+          "published_at": "2026-10-12T16:17:20+00:00",
+          "is_pinned": null,
+          "caption": "тгк: sirena_oll ",
+          "fetched_at": "2026-10-21T20:35:01.825966+00:00",
+          "source": "embedded_post_json",
+          "metric_details": {
+            "likes": {
+              "value": 237,
+              "display": "237",
+              "precision": "reported",
+              "source": "statsV2.diggCount"
+            },
+            "comments": {
+              "value": 6,
+              "display": "6",
+              "precision": "reported",
+              "source": "statsV2.commentCount"
+            },
+            "views": {
+              "value": 4931,
+              "display": "4931",
+              "precision": "reported",
+              "source": "statsV2.playCount"
+            },
+            "shares": {
+              "value": 0,
+              "display": "0",
+              "precision": "reported",
+              "source": "statsV2.shareCount"
+            },
+            "saves": {
+              "value": 12,
+              "display": "12",
+              "precision": "reported",
+              "source": "statsV2.collectCount"
+            }
+          },
+          "views": 4931,
+          "likes": 237,
+          "comments": 6
+        }
+      ],
+      "pinned_posts_skipped": [],
+      "summary": {
+        "posts_requested": 10,
+        "posts_collected": 10,
+        "posts_with_views": 10,
+        "median_views": 4591.5,
+        "min_views": 659,
+        "max_views": 50000,
+        "sample_date_from": "2026-10-12T16:17:20+00:00",
+        "sample_date_to": "2026-10-21T19:11:58+00:00",
+        "pinned_excluded": 0,
+        "pin_status_unknown": 10,
+        "chronological_completeness_verified": false,
+        "views_are_unique_reach": false,
+        "posts_inspected": 13,
+        "pinned_candidates_skipped": 0
+      },
+      "duration_seconds": 35.54
+    },
+    "eugeniarova": {
+      "status": "partial",
+      "platform": "tiktok",
+      "source_url": "https://www.tiktok.com/@eugeniarova",
+      "fetched_at": "2026-10-21T20:35:44.678830+00:00",
+      "missing_fields": [],
+      "warnings": [
+        "No post links were exposed; this does not mean the account has no posts. Use web search for individual post URLs.",
+        "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed.",
+        "Only a bounded visible sample was collected. The platform's newest-post coverage and unknown pin status cannot be verified; statistics describe this sample only.",
+        "Requested 10 posts; collected 0. Missing data is unknown, not zero."
+      ],
+      "error": null,
+      "profile": {
+        "username": "eugeniarova",
+        "display_name": "eugeniarova",
+        "bio": "все как у всех \n🐈‍⬛",
+        "followers": 24298,
+        "followers_raw": "24298",
+        "followers_is_approximate": false,
+        "metric_details": {
+          "followers": {
+            "value": 24298,
+            "display": "24298",
+            "precision": "reported",
+            "source": "statsV2.followerCount"
+          },
+          "following": {
+            "value": 175,
+            "display": "175",
+            "precision": "reported",
+            "source": "statsV2.followingCount"
+          },
+          "likes": {
+            "value": 1460014,
+            "display": "1460014",
+            "precision": "reported",
+            "source": "statsV2.heartCount"
+          },
+          "posts": {
+            "value": 447,
+            "display": "447",
+            "precision": "reported",
+            "source": "statsV2.videoCount"
+          }
+        },
+        "verified": false,
+        "private": false,
+        "public_contacts": [],
+        "external_links": [],
+        "source": "embedded_profile_json"
+      },
+      "posts": [],
+      "pinned_posts_skipped": [],
+      "summary": {
+        "posts_requested": 10,
+        "posts_collected": 0,
+        "posts_with_views": 0,
+        "median_views": null,
+        "min_views": null,
+        "max_views": null,
+        "sample_date_from": null,
+        "sample_date_to": null,
+        "pinned_excluded": 0,
+        "pin_status_unknown": 0,
+        "chronological_completeness_verified": false,
+        "views_are_unique_reach": false,
+        "posts_inspected": 0,
+        "pinned_candidates_skipped": 0
+      },
+      "duration_seconds": 17.48
+    }
+  },
+  "innkarrmm": {
+    "status": "partial",
+    "platform": "tiktok",
+    "source_url": "https://www.tiktok.com/@innkarrmm",
+    "fetched_at": "2026-10-21T20:30:34.054111+00:00",
+    "missing_fields": [
+      "posts[0].is_pinned",
+      "posts[1].is_pinned",
+      "posts[2].is_pinned",
+      "posts[3].is_pinned",
+      "posts[4].is_pinned",
+      "posts[5].is_pinned",
+      "posts[6].author",
+      "posts[6].type",
+      "posts[6].published_at",
+      "posts[6].is_pinned",
+      "posts[6].views",
+      "posts[6].likes",
+      "posts[6].comments",
+      "posts[6].caption"
+    ],
+    "warnings": [
+      "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed.",
+      "Requested 10 posts; collected 6. Missing data is unknown, not zero."
+    ],
+    "error": {
+      "reason": "timeout",
+      "stage": "wait_content"
+    },
+    "profile": {
+      "username": "innkarrmm",
+      "display_name": "Inkarm",
+      "bio": "сотрудничество/реклама: 7 705 373 2597\ninst: innkarrmm \nЕдинственный аккаунт!",
+      "followers": 7350,
+      "followers_raw": "7350",
+      "followers_is_approximate": false,
+      "metric_details": {
+        "followers": {
+          "value": 7350,
+          "display": "7350",
+          "precision": "reported",
+          "source": "statsV2.followerCount"
+        },
+        "following": {
+          "value": 71,
+          "display": "71",
+          "precision": "reported",
+          "source": "statsV2.followingCount"
+        },
+        "likes": {
+          "value": 1612820,
+          "display": "1612820",
+          "precision": "reported",
+          "source": "statsV2.heartCount"
+        },
+        "posts": {
+          "value": 128,
+          "display": "128",
+          "precision": "reported",
+          "source": "statsV2.videoCount"
+        }
+      },
+      "verified": false,
+      "private": false,
+      "public_contacts": [],
+      "external_links": [],
+      "source": "embedded_profile_json"
+    },
+    "posts": [
+      {
+        "id": "7698766357533297938",
+        "url": "https://www.tiktok.com/@innkarrmm/video/7698766357533297938",
+        "author": "innkarrmm",
+        "type": "video",
+        "published_at": "2026-10-20T15:05:33+00:00",
+        "is_pinned": null,
+        "caption": "#fyp ",
+        "fetched_at": "2026-10-21T20:30:48.926934+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 1288,
+            "display": "1288",
+            "precision": "reported",
+            "source": "statsV2.diggCount"
+          },
+          "comments": {
+            "value": 38,
+            "display": "38",
+            "precision": "reported",
+            "source": "statsV2.commentCount"
+          },
+          "views": {
+            "value": 12800,
+            "display": "12800",
+            "precision": "reported",
+            "source": "statsV2.playCount"
+          },
+          "shares": {
+            "value": 21,
+            "display": "21",
+            "precision": "reported",
+            "source": "statsV2.shareCount"
+          },
+          "saves": {
+            "value": 128,
+            "display": "128",
+            "precision": "reported",
+            "source": "statsV2.collectCount"
+          }
+        },
+        "views": 12800,
+        "likes": 1288,
+        "comments": 38
+      },
+      {
+        "id": "7697983216317271314",
+        "url": "https://www.tiktok.com/@innkarrmm/video/7697983216317271314",
+        "author": "innkarrmm",
+        "type": "video",
+        "published_at": "2026-10-18T12:26:36+00:00",
+        "is_pinned": null,
+        "caption": "saganga osylai unai maa",
+        "fetched_at": "2026-10-21T20:30:50.756772+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 4632,
+            "display": "4632",
+            "precision": "reported",
+            "source": "statsV2.diggCount"
+          },
+          "comments": {
+            "value": 69,
+            "display": "69",
+            "precision": "reported",
+            "source": "statsV2.commentCount"
+          },
+          "views": {
+            "value": 53900,
+            "display": "53900",
+            "precision": "reported",
+            "source": "statsV2.playCount"
+          },
+          "shares": {
+            "value": 89,
+            "display": "89",
+            "precision": "reported",
+            "source": "statsV2.shareCount"
+          },
+          "saves": {
+            "value": 398,
+            "display": "398",
+            "precision": "reported",
+            "source": "statsV2.collectCount"
+          }
+        },
+        "views": 53900,
+        "likes": 4632,
+        "comments": 69
+      },
+      {
+        "id": "7697283807845682448",
+        "url": "https://www.tiktok.com/@innkarrmm/video/7697283807845682448",
+        "author": "innkarrmm",
+        "type": "video",
+        "published_at": "2026-10-16T15:12:36+00:00",
+        "is_pinned": null,
+        "caption": "@boni.globall 💞#тинтыдлягуб #boni #bonigloball #fyp ",
+        "fetched_at": "2026-10-21T20:30:53.030672+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 530,
+            "display": "530",
+            "precision": "reported",
+            "source": "statsV2.diggCount"
+          },
+          "comments": {
+            "value": 47,
+            "display": "47",
+            "precision": "reported",
+            "source": "statsV2.commentCount"
+          },
+          "views": {
+            "value": 9824,
+            "display": "9824",
+            "precision": "reported",
+            "source": "statsV2.playCount"
+          },
+          "shares": {
+            "value": 16,
+            "display": "16",
+            "precision": "reported",
+            "source": "statsV2.shareCount"
+          },
+          "saves": {
+            "value": 17,
+            "display": "17",
+            "precision": "reported",
+            "source": "statsV2.collectCount"
+          }
+        },
+        "views": 9824,
+        "likes": 530,
+        "comments": 47
+      },
+      {
+        "id": "7696765743492271368",
+        "url": "https://www.tiktok.com/@innkarrmm/video/7696765743492271368",
+        "author": "innkarrmm",
+        "type": "video",
+        "published_at": "2026-10-15T05:42:16+00:00",
+        "is_pinned": null,
+        "caption": "",
+        "fetched_at": "2026-10-21T20:30:54.925214+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 138800,
+            "display": "138800",
+            "precision": "reported",
+            "source": "statsV2.diggCount"
+          },
+          "comments": {
+            "value": 227,
+            "display": "227",
+            "precision": "reported",
+            "source": "statsV2.commentCount"
+          },
+          "views": {
+            "value": 1200000,
+            "display": "1200000",
+            "precision": "reported",
+            "source": "statsV2.playCount"
+          },
+          "shares": {
+            "value": 13600,
+            "display": "13600",
+            "precision": "reported",
+            "source": "statsV2.shareCount"
+          },
+          "saves": {
+            "value": 4175,
+            "display": "4175",
+            "precision": "reported",
+            "source": "statsV2.collectCount"
+          }
+        },
+        "views": 1200000,
+        "likes": 138800,
+        "comments": 227
+      },
+      {
+        "id": "7696524612393405704",
+        "url": "https://www.tiktok.com/@innkarrmm/video/7696524612393405704",
+        "author": "innkarrmm",
+        "type": "video",
+        "published_at": "2026-10-14T14:06:25+00:00",
+        "is_pinned": null,
+        "caption": "#gdwm #собирашки ",
+        "fetched_at": "2026-10-21T20:30:56.247987+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 6398,
+            "display": "6398",
+            "precision": "reported",
+            "source": "statsV2.diggCount"
+          },
+          "comments": {
+            "value": 75,
+            "display": "75",
+            "precision": "reported",
+            "source": "statsV2.commentCount"
+          },
+          "views": {
+            "value": 58700,
+            "display": "58700",
+            "precision": "reported",
+            "source": "statsV2.playCount"
+          },
+          "shares": {
+            "value": 100,
+            "display": "100",
+            "precision": "reported",
+            "source": "statsV2.shareCount"
+          },
+          "saves": {
+            "value": 615,
+            "display": "615",
+            "precision": "reported",
+            "source": "statsV2.collectCount"
+          }
+        },
+        "views": 58700,
+        "likes": 6398,
+        "comments": 75
+      },
+      {
+        "id": "7694240104101022994",
+        "url": "https://www.tiktok.com/@innkarrmm/video/7694240104101022994",
+        "author": "innkarrmm",
+        "type": "video",
+        "published_at": "2026-10-08T10:21:26+00:00",
+        "is_pinned": null,
+        "caption": "",
+        "fetched_at": "2026-10-21T20:30:57.582224+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 2305,
+            "display": "2305",
+            "precision": "reported",
+            "source": "statsV2.diggCount"
+          },
+          "comments": {
+            "value": 57,
+            "display": "57",
+            "precision": "reported",
+            "source": "statsV2.commentCount"
+          },
+          "views": {
+            "value": 29400,
+            "display": "29400",
+            "precision": "reported",
+            "source": "statsV2.playCount"
+          },
+          "shares": {
+            "value": 42,
+            "display": "42",
+            "precision": "reported",
+            "source": "statsV2.shareCount"
+          },
+          "saves": {
+            "value": 147,
+            "display": "147",
+            "precision": "reported",
+            "source": "statsV2.collectCount"
+          }
+        },
+        "views": 29400,
+        "likes": 2305,
+        "comments": 57
+      },
+      {
+        "id": "7698777898978708754",
+        "url": "https://www.tiktok.com/@innkarrmm/photo/7698777898978708754",
+        "author": null,
+        "type": null,
+        "published_at": null,
+        "is_pinned": null,
+        "caption": null,
+        "fetched_at": "2026-10-21T20:30:47.419933+00:00",
+        "source": null,
+        "metric_details": {},
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "error": {
+          "reason": "extraction_failed"
+        }
+      }
+    ],
+    "pinned_posts_skipped": [
+      {
+        "url": "https://www.tiktok.com/@innkarrmm/video/7663024875379936530",
+        "is_pinned": true,
+        "source": "profile_grid_badge"
+      },
+      {
+        "url": "https://www.tiktok.com/@innkarrmm/photo/7668236097285082375",
+        "is_pinned": true,
+        "source": "profile_grid_badge"
+      }
+    ],
+    "summary": {
+      "posts_requested": 10,
+      "posts_collected": 6,
+      "posts_with_views": 6,
+      "median_views": 41650,
+      "min_views": 9824,
+      "max_views": 1200000,
+      "sample_date_from": "2026-10-08T10:21:26+00:00",
+      "sample_date_to": "2026-10-20T15:05:33+00:00",
+      "pinned_excluded": 0,
+      "pin_status_unknown": 7,
+      "chronological_completeness_verified": false,
+      "views_are_unique_reach": false,
+      "posts_inspected": 7,
+      "pinned_candidates_skipped": 2
+    },
+    "duration_seconds": 42.28
+  },
+  "eugeniarova_browser_sample": {
+    "followers_display": "24.3K",
+    "views": [
+      18600,
+      7958,
+      27200,
+      39100,
+      14700,
+      16700,
+      10000,
+      10500,
+      10100,
+      13300
+    ],
+    "median": 14000,
+    "pinned_skipped": 3,
+    "source": "authorized IAB profile grid",
+    "note": "Previous successful MCP at 20:21 UTC also returned 10 posts, median14000, dates Sep15–Oct18; full original response no longer available in runtime. Latest response included separately returned zero post links."
+  }
+}
