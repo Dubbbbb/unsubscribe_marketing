@@ -1,0 +1,3762 @@
+[
+  {
+    "status": "partial",
+    "platform": "instagram",
+    "source_url": "https://www.instagram.com/its.yildiz_/",
+    "fetched_at": "2026-10-21T19:14:43.992207+00:00",
+    "missing_fields": [
+      "posts[0].is_pinned",
+      "posts[0].views",
+      "posts[1].is_pinned",
+      "posts[1].views",
+      "posts[2].is_pinned",
+      "posts[2].views",
+      "posts[3].is_pinned",
+      "posts[3].views",
+      "posts[4].is_pinned",
+      "posts[4].views"
+    ],
+    "warnings": [
+      "Conflicting following: embedded profile=264, metadata=276; using profile.",
+      "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed.",
+      "Only a bounded visible sample was collected. The platform's newest-post coverage and unknown pin status cannot be verified; statistics describe this sample only."
+    ],
+    "error": null,
+    "diagnostics": {
+      "screenshot": "diagnostics/2e46ae3d9723490fa8ea7748f15dc69f/page.png",
+      "id": "2e46ae3d9723490fa8ea7748f15dc69f",
+      "html": "diagnostics/2e46ae3d9723490fa8ea7748f15dc69f/evidence.html",
+      "stage": "extract",
+      "posts_found": 12,
+      "retention_days": 7,
+      "duration_seconds": 1.54
+    },
+    "profile": {
+      "username": "its.yildiz_",
+      "display_name": "UGC creator | бьюти |обзоры💗",
+      "bio": "Ala | Shymkent📍\nUGC creator\nLifestyle content| Beauty-обзоры \nБартер | реклама в Direct",
+      "followers": 5025,
+      "followers_raw": "5025",
+      "followers_is_approximate": false,
+      "metric_details": {
+        "followers": {
+          "value": 5025,
+          "display": "5025",
+          "precision": "reported",
+          "source": "embedded_profile_json.follower_count"
+        },
+        "following": {
+          "value": 264,
+          "display": "264",
+          "precision": "reported",
+          "source": "embedded_profile_json.following_count"
+        },
+        "posts": {
+          "value": 54,
+          "display": "54",
+          "precision": "reported",
+          "source": "page_metadata"
+        }
+      },
+      "verified": false,
+      "private": false,
+      "public_contacts": [],
+      "external_links": [],
+      "source": "embedded_profile_json"
+    },
+    "posts": [
+      {
+        "id": "DeuVMpUo-jE",
+        "url": "https://www.instagram.com/reel/DeuVMpUo-jE/",
+        "author": "its.yildiz_",
+        "type": "video",
+        "published_at": "2026-10-20T17:08:50+00:00",
+        "is_pinned": null,
+        "caption": "Selam Antalya! 🇹🇷☀️🌊\n\n#море #отдых #туристы #анталия #uzbekistan",
+        "fetched_at": "2026-10-21T19:14:44.733238+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 27,
+            "display": "27",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 0,
+            "display": "0",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 27,
+        "comments": 0
+      },
+      {
+        "id": "DetwepoItqq",
+        "url": "https://www.instagram.com/reel/DetwepoItqq/",
+        "author": "its.yildiz_",
+        "type": "video",
+        "published_at": "2026-10-20T11:47:01+00:00",
+        "is_pinned": null,
+        "caption": "#хочуврек #magic #antalya #turkey #thelandoflegends",
+        "fetched_at": "2026-10-21T19:14:45.618775+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 110,
+            "display": "110",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 9,
+            "display": "9",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 110,
+        "comments": 9
+      },
+      {
+        "id": "DesNQblIF3u",
+        "url": "https://www.instagram.com/reel/DesNQblIF3u/",
+        "author": "its.yildiz_",
+        "type": "video",
+        "published_at": "2026-10-19T21:20:16+00:00",
+        "is_pinned": null,
+        "caption": "❤️\n\n#мужена ##sevgi #uzb #rek",
+        "fetched_at": "2026-10-21T19:14:46.555514+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 80,
+            "display": "80",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 5,
+            "display": "5",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 80,
+        "comments": 5
+      },
+      {
+        "id": "DekMD26IPzr",
+        "url": "https://www.instagram.com/reel/DekMD26IPzr/",
+        "author": "its.yildiz_",
+        "type": "video",
+        "published_at": "2026-10-16T18:36:57+00:00",
+        "is_pinned": null,
+        "caption": "😂😂😹\n#allinclusive #блог #юмор",
+        "fetched_at": "2026-10-21T19:14:47.380557+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 97,
+            "display": "97",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 10,
+            "display": "10",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 97,
+        "comments": 10
+      },
+      {
+        "id": "DejN3zXIw2A",
+        "url": "https://www.instagram.com/reel/DejN3zXIw2A/",
+        "author": "its.yildiz_",
+        "type": "video",
+        "published_at": "2026-10-16T09:32:04+00:00",
+        "is_pinned": null,
+        "caption": "💔🇹🇷\n@airastana 🤍\n\n#хочуврек #turkiye #ankara",
+        "fetched_at": "2026-10-21T19:14:48.229018+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 150,
+            "display": "150",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 4,
+            "display": "4",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 150,
+        "comments": 4
+      }
+    ],
+    "pinned_posts_skipped": [],
+    "summary": {
+      "posts_requested": 5,
+      "posts_collected": 5,
+      "posts_with_views": 0,
+      "median_views": null,
+      "min_views": null,
+      "max_views": null,
+      "sample_date_from": "2026-10-16T09:32:04+00:00",
+      "sample_date_to": "2026-10-20T17:08:50+00:00",
+      "pinned_excluded": 0,
+      "pin_status_unknown": 5,
+      "chronological_completeness_verified": false,
+      "views_are_unique_reach": false,
+      "posts_inspected": 8,
+      "pinned_candidates_skipped": 0
+    },
+    "duration_seconds": 63.28
+  },
+  {
+    "status": "partial",
+    "platform": "instagram",
+    "source_url": "https://www.instagram.com/alinaa.hass/",
+    "fetched_at": "2026-10-21T19:14:27.544544+00:00",
+    "missing_fields": [
+      "posts[0].is_pinned",
+      "posts[0].views",
+      "posts[1].is_pinned",
+      "posts[1].views",
+      "posts[2].is_pinned",
+      "posts[2].views",
+      "posts[3].is_pinned",
+      "posts[3].views",
+      "posts[4].is_pinned",
+      "posts[4].views"
+    ],
+    "warnings": [
+      "Conflicting following: embedded profile=95, metadata=96; using profile.",
+      "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed.",
+      "Only a bounded visible sample was collected. The platform's newest-post coverage and unknown pin status cannot be verified; statistics describe this sample only."
+    ],
+    "error": null,
+    "diagnostics": {
+      "screenshot": "diagnostics/efc0f13b4d834bf7b59a2a851a91a208/page.png",
+      "id": "efc0f13b4d834bf7b59a2a851a91a208",
+      "html": "diagnostics/efc0f13b4d834bf7b59a2a851a91a208/evidence.html",
+      "stage": "extract",
+      "posts_found": 12,
+      "retention_days": 7,
+      "duration_seconds": 2.19
+    },
+    "profile": {
+      "username": "alinaa.hass",
+      "display_name": "Alina Hasanova | лайфстайл |бьюти| обзоры Екб",
+      "bio": "Лайф мамы, уход & рецепты  \nМеняю привычки и создаю себя \nСоздала женский клуб @siyay_ekb🕊️\n⠀ \nСотрудничество/UGC/PR: @pr_alinaa.has",
+      "followers": 10047,
+      "followers_raw": "10047",
+      "followers_is_approximate": false,
+      "metric_details": {
+        "followers": {
+          "value": 10047,
+          "display": "10047",
+          "precision": "reported",
+          "source": "embedded_profile_json.follower_count"
+        },
+        "following": {
+          "value": 95,
+          "display": "95",
+          "precision": "reported",
+          "source": "embedded_profile_json.following_count"
+        },
+        "posts": {
+          "value": 404,
+          "display": "404",
+          "precision": "reported",
+          "source": "page_metadata"
+        }
+      },
+      "verified": false,
+      "private": false,
+      "public_contacts": [
+        {
+          "type": "social_handle",
+          "value": "@pr_alinaa.has",
+          "platform": "instagram",
+          "source": "public_bio",
+          "evidence": "Сотрудничество/UGC/PR: @pr_alinaa.has"
+        }
+      ],
+      "external_links": [
+        "http://t.me/alinaa_hass",
+        "https://max.ru/join/5oGnN5NeeU0cv_4KejxOlU-hjR-gtvwBRANexD0xqbs"
+      ],
+      "source": "embedded_profile_json"
+    },
+    "posts": [
+      {
+        "id": "Dew20EWiGqV",
+        "url": "https://www.instagram.com/p/Dew20EWiGqV/",
+        "author": "alinaa.hass",
+        "type": "carousel",
+        "published_at": "2026-10-21T16:39:02+00:00",
+        "is_pinned": null,
+        "caption": "Октябрь явно мой месяц🍁",
+        "fetched_at": "2026-10-21T19:14:29.071867+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 27,
+            "display": "27",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 6,
+            "display": "6",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 27,
+        "comments": 6
+      },
+      {
+        "id": "DeuTXvdoVyA",
+        "url": "https://www.instagram.com/reel/DeuTXvdoVyA/",
+        "author": "alinaa.hass",
+        "type": "video",
+        "published_at": "2026-10-20T16:55:15+00:00",
+        "is_pinned": null,
+        "caption": "Теплый салат с брынзой на ужин 🥗 который получается с первого раза, быстро и невероятно вкусно\n\nИнгредиенты:\n2 красных перца\n2 баклажана\nМолодой картофель\n1/2 ялтинского лука\nбрынза\nзелень (кинза, петрушка, укроп)\nДля заправки:\nмасло авокадо (для заправки) и семечки по желанию \n\n🥗Готовим:\nКрупно нарезаем овощи и запекаем в духовке при 180° примерно 30-40 минут. Достаем, аккуратно снимаем кожуру с перца, нарезаем овощи. Соединяем все ингредиенты, крошим брынзу, добавляем свежую зелень, заправляем маслом авокадо и посыпаем семечками \n\nСохраняйте рецепт и пробуйте 💛",
+        "fetched_at": "2026-10-21T19:14:31.008076+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 18,
+            "display": "18",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 2,
+            "display": "2",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 18,
+        "comments": 2
+      },
+      {
+        "id": "DerW1JSohNH",
+        "url": "https://www.instagram.com/reel/DerW1JSohNH/",
+        "author": "alinaa.hass",
+        "type": "video",
+        "published_at": "2026-10-19T13:30:17+00:00",
+        "is_pinned": null,
+        "caption": "Корейская косметика не перестает удивлять✨эффект glow skin и супер увлажненная кожа🫰🏻\n@beautykit.ru",
+        "fetched_at": "2026-10-21T19:14:32.578216+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 14,
+            "display": "14",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 0,
+            "display": "0",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 14,
+        "comments": 0
+      },
+      {
+        "id": "DepVYuwiAwq",
+        "url": "https://www.instagram.com/p/DepVYuwiAwq/",
+        "author": "alinaa.hass",
+        "type": "carousel",
+        "published_at": "2026-10-18T18:32:15+00:00",
+        "is_pinned": null,
+        "caption": "С днём отца @hasanov_32 ❤️",
+        "fetched_at": "2026-10-21T19:14:34.649649+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 57,
+            "display": "57",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 10,
+            "display": "10",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 57,
+        "comments": 10
+      },
+      {
+        "id": "Dehd1jvCHLG",
+        "url": "https://www.instagram.com/p/Dehd1jvCHLG/",
+        "author": "alinaa.hass",
+        "type": "carousel",
+        "published_at": "2026-10-15T17:12:10+00:00",
+        "is_pinned": null,
+        "caption": "10k❣️\nтеперь я точно знаю - любая цель мне по силам.",
+        "fetched_at": "2026-10-21T19:14:36.653649+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 77,
+            "display": "77",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 15,
+            "display": "15",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 77,
+        "comments": 15
+      }
+    ],
+    "pinned_posts_skipped": [],
+    "summary": {
+      "posts_requested": 5,
+      "posts_collected": 5,
+      "posts_with_views": 0,
+      "median_views": null,
+      "min_views": null,
+      "max_views": null,
+      "sample_date_from": "2026-10-15T17:12:10+00:00",
+      "sample_date_to": "2026-10-21T16:39:02+00:00",
+      "pinned_excluded": 0,
+      "pin_status_unknown": 5,
+      "chronological_completeness_verified": false,
+      "views_are_unique_reach": false,
+      "posts_inspected": 8,
+      "pinned_candidates_skipped": 0
+    },
+    "duration_seconds": 52.96
+  },
+  {
+    "status": "partial",
+    "platform": "instagram",
+    "source_url": "https://www.instagram.com/beauty.mutim/",
+    "fetched_at": "2026-10-21T19:15:08.704301+00:00",
+    "missing_fields": [
+      "posts[0].is_pinned",
+      "posts[0].views",
+      "posts[1].is_pinned",
+      "posts[1].views",
+      "posts[2].is_pinned",
+      "posts[2].views",
+      "posts[3].is_pinned",
+      "posts[3].views",
+      "posts[4].is_pinned",
+      "posts[4].views"
+    ],
+    "warnings": [
+      "Conflicting following: embedded profile=456, metadata=460; using profile.",
+      "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed."
+    ],
+    "error": {
+      "reason": "timeout",
+      "stage": "navigation"
+    },
+    "diagnostics": {
+      "screenshot": "diagnostics/06186e9e20224d82ae39f22aeba153d2/page.png",
+      "id": "06186e9e20224d82ae39f22aeba153d2",
+      "html": "diagnostics/06186e9e20224d82ae39f22aeba153d2/evidence.html",
+      "stage": "extract",
+      "posts_found": 12,
+      "retention_days": 7,
+      "duration_seconds": 1.65
+    },
+    "profile": {
+      "username": "beauty.mutim",
+      "display_name": "Алина - лайфстайл блогер из СПб | UGC | косметика и образы",
+      "bio": "вот такая я сегодня✨\n• про бьюти, образы и обустройство квартиры\n• подпишись, а то ходишь неподписанная 💋\nсвязь: @pr.beauty.mutim",
+      "followers": 65601,
+      "followers_raw": "65601",
+      "followers_is_approximate": false,
+      "metric_details": {
+        "followers": {
+          "value": 65601,
+          "display": "65601",
+          "precision": "reported",
+          "source": "embedded_profile_json.follower_count"
+        },
+        "following": {
+          "value": 456,
+          "display": "456",
+          "precision": "reported",
+          "source": "embedded_profile_json.following_count"
+        },
+        "posts": {
+          "value": 1368,
+          "display": "1,368",
+          "precision": "reported",
+          "source": "page_metadata"
+        }
+      },
+      "verified": false,
+      "private": false,
+      "public_contacts": [],
+      "external_links": [
+        "https://t.me/beauty_mutim"
+      ],
+      "source": "embedded_profile_json"
+    },
+    "posts": [
+      {
+        "id": "Dew5GR9sZfG",
+        "url": "https://www.instagram.com/reel/Dew5GR9sZfG/",
+        "author": "beauty.mutim",
+        "type": "video",
+        "published_at": "2026-10-21T17:05:15+00:00",
+        "is_pinned": null,
+        "caption": "@vetralen_brand , это что за музейный экспонат? 😍",
+        "fetched_at": "2026-10-21T19:15:10.163071+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 7,
+            "display": "7",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 7
+      },
+      {
+        "id": "Det3acnOMzg",
+        "url": "https://www.instagram.com/reel/Det3acnOMzg/",
+        "author": "beauty.mutim",
+        "type": "video",
+        "published_at": "2026-10-20T12:47:23+00:00",
+        "is_pinned": null,
+        "caption": "пап, отправляю тебе этот рилс ☁️ \n\nТы был немногословен, но мы  понимали друг друга по взглядам, ты пример, ты моя опора и поддержка навсегда💔",
+        "fetched_at": "2026-10-21T19:15:11.410253+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 245,
+            "display": "245",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 4,
+            "display": "4",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 245,
+        "comments": 4
+      },
+      {
+        "id": "DeoDxBxMiSb",
+        "url": "https://www.instagram.com/reel/DeoDxBxMiSb/",
+        "author": "beauty.mutim",
+        "type": "video",
+        "published_at": "2026-10-18T06:40:47+00:00",
+        "is_pinned": null,
+        "caption": "ну и желательно почаще😀",
+        "fetched_at": "2026-10-21T19:15:12.860061+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 6,
+            "display": "6",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 6
+      },
+      {
+        "id": "DejUlT4sIKs",
+        "url": "https://www.instagram.com/reel/DejUlT4sIKs/",
+        "author": "beauty.mutim",
+        "type": "video",
+        "published_at": "2026-10-16T10:31:34+00:00",
+        "is_pinned": null,
+        "caption": "@beauty.mutim - лайф блог о бьюти, стиле и обустройстве квартиры 🤍",
+        "fetched_at": "2026-10-21T19:15:14.084892+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 202,
+            "display": "202",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 6,
+            "display": "6",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 202,
+        "comments": 6
+      },
+      {
+        "id": "DehO_WjskkO",
+        "url": "https://www.instagram.com/reel/DehO_WjskkO/",
+        "author": "beauty.mutim",
+        "type": "video",
+        "published_at": "2026-10-15T15:07:34+00:00",
+        "is_pinned": null,
+        "caption": "рай перфекциониста 😍\n\nКисти @maoka.ru - они есть в том числе на вб #258910139\n\nплатье @sabellino.fashion",
+        "fetched_at": "2026-10-21T19:15:15.368361+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 202,
+            "display": "202",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 6,
+            "display": "6",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 202,
+        "comments": 6
+      }
+    ],
+    "pinned_posts_skipped": [],
+    "summary": {
+      "posts_requested": 5,
+      "posts_collected": 5,
+      "posts_with_views": 0,
+      "median_views": null,
+      "min_views": null,
+      "max_views": null,
+      "sample_date_from": "2026-10-15T15:07:34+00:00",
+      "sample_date_to": "2026-10-21T17:05:15+00:00",
+      "pinned_excluded": 0,
+      "pin_status_unknown": 5,
+      "chronological_completeness_verified": false,
+      "views_are_unique_reach": false,
+      "posts_inspected": 6,
+      "pinned_candidates_skipped": 0
+    },
+    "duration_seconds": 87.05
+  },
+  {
+    "status": "partial",
+    "platform": "instagram",
+    "source_url": "https://www.instagram.com/masha.mazurka/",
+    "fetched_at": "2026-10-21T19:13:49.930370+00:00",
+    "missing_fields": [
+      "posts[0].is_pinned",
+      "posts[0].views",
+      "posts[1].is_pinned",
+      "posts[1].views",
+      "posts[2].is_pinned",
+      "posts[2].views",
+      "posts[3].is_pinned",
+      "posts[3].views",
+      "posts[4].is_pinned",
+      "posts[4].views"
+    ],
+    "warnings": [
+      "Conflicting following: embedded profile=489, metadata=503; using profile.",
+      "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed.",
+      "Only a bounded visible sample was collected. The platform's newest-post coverage and unknown pin status cannot be verified; statistics describe this sample only."
+    ],
+    "error": null,
+    "diagnostics": {
+      "screenshot": "diagnostics/da47c0a063744050a5bc6ba5bea29d32/page.png",
+      "id": "da47c0a063744050a5bc6ba5bea29d32",
+      "html": "diagnostics/da47c0a063744050a5bc6ba5bea29d32/evidence.html",
+      "stage": "extract",
+      "posts_found": 12,
+      "retention_days": 7,
+      "duration_seconds": 2.29
+    },
+    "profile": {
+      "username": "masha.mazurka",
+      "display_name": "Маша Мазурка ★ ugc, лайфстайл, бали, москва",
+      "bio": "из понтов к 28 годам — этот блог и охуенные отношения с родными\nи да, этого уже достаточно ⭐️⭐️\n🎧 подкаст: как избавиться от страха вести блог👇🏼",
+      "followers": 26942,
+      "followers_raw": "26942",
+      "followers_is_approximate": false,
+      "metric_details": {
+        "followers": {
+          "value": 26942,
+          "display": "26942",
+          "precision": "reported",
+          "source": "embedded_profile_json.follower_count"
+        },
+        "following": {
+          "value": 489,
+          "display": "489",
+          "precision": "reported",
+          "source": "embedded_profile_json.following_count"
+        },
+        "posts": {
+          "value": 415,
+          "display": "415",
+          "precision": "reported",
+          "source": "page_metadata"
+        }
+      },
+      "verified": false,
+      "private": false,
+      "public_contacts": [],
+      "external_links": [
+        "https://t.me/mazurkasgroups/114"
+      ],
+      "source": "embedded_profile_json"
+    },
+    "posts": [
+      {
+        "id": "DetbdwSRm9c",
+        "url": "https://www.instagram.com/reel/DetbdwSRm9c/",
+        "author": "masha.mazurka",
+        "type": "video",
+        "published_at": "2026-10-20T08:43:42+00:00",
+        "is_pinned": null,
+        "caption": "моя любимая островная деревенская жизнь🌴❤️\n\nа что? петухи утром будят, свежие фрукты считай даром — почти как у бабушке в деревне\n\n@masha.mazurka <—— снова на острове. подписывайся⭐️🌴",
+        "fetched_at": "2026-10-21T19:13:52.347815+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 131,
+            "display": "131",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 14,
+            "display": "14",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 131,
+        "comments": 14
+      },
+      {
+        "id": "DerYA11jEz4",
+        "url": "https://www.instagram.com/p/DerYA11jEz4/",
+        "author": "masha.mazurka",
+        "type": "carousel",
+        "published_at": "2026-10-19T13:33:41+00:00",
+        "is_pinned": null,
+        "caption": "как писали мои подписчики: ждем островной контент!\nтак вот… держите, блин⭐️⭐️\n\n@masha.mazurka <—— снова на любимом острове, хоть и не слышит одно ухо, очень счастливая! готова его изучать! подписывайся🌴🌴",
+        "fetched_at": "2026-10-21T19:13:54.891335+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 602,
+            "display": "602",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 36,
+            "display": "36",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 602,
+        "comments": 36
+      },
+      {
+        "id": "Deo13HpxSat",
+        "url": "https://www.instagram.com/reel/Deo13HpxSat/",
+        "author": "masha.mazurka",
+        "type": "video",
+        "published_at": "2026-10-18T13:58:08+00:00",
+        "is_pinned": null,
+        "caption": "ну крутяцкие у меня пальчики от @momsaidimbeautiful ничего не могу с собой поделать! лю❤️❤️\n\n@masha.mazurka <—— прилетела на любимый остров и начинаю заново исследовать его. подписывайся❤️🧿",
+        "fetched_at": "2026-10-21T19:13:56.643412+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 113,
+            "display": "113",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 10,
+            "display": "10",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 113,
+        "comments": 10
+      },
+      {
+        "id": "DemelgKRU20",
+        "url": "https://www.instagram.com/reel/DemelgKRU20/",
+        "author": "masha.mazurka",
+        "type": "video",
+        "published_at": "2026-10-17T15:56:37+00:00",
+        "is_pinned": null,
+        "caption": "наконеееец-то! \n\nот любимых @momsaidimbeautiful не только маникюрчик, но еще и эта крутая кепуля🥹🥹🧿\n\n@masha.mazurka <—— выстраиваю жизнь на райском острове. подпишись❤️⭐️⭐️",
+        "fetched_at": "2026-10-21T19:13:58.332180+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 231,
+            "display": "231",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 16,
+            "display": "16",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 231,
+        "comments": 16
+      },
+      {
+        "id": "DejUFIvxBrG",
+        "url": "https://www.instagram.com/reel/DejUFIvxBrG/",
+        "author": "masha.mazurka",
+        "type": "video",
+        "published_at": "2026-10-16T10:27:05+00:00",
+        "is_pinned": null,
+        "caption": "я начала учить французский с нуля с @comfyschool_official месяца 2 назад и только сейчас осмелилась спросить про bad words… итог вы сами слышите! \n\nк слову в русском языке у нас все про половые органы в мате, так что мы не далеко ушли😅\n\n@masha.mazurka <—— учу французский с нуля, сейчас путешествую по Азии. подписывайся ❤️⭐️",
+        "fetched_at": "2026-10-21T19:14:00.785816+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 4111,
+            "display": "4111",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 81,
+            "display": "81",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 4111,
+        "comments": 81
+      }
+    ],
+    "pinned_posts_skipped": [],
+    "summary": {
+      "posts_requested": 5,
+      "posts_collected": 5,
+      "posts_with_views": 0,
+      "median_views": null,
+      "min_views": null,
+      "max_views": null,
+      "sample_date_from": "2026-10-16T10:27:05+00:00",
+      "sample_date_to": "2026-10-20T08:43:42+00:00",
+      "pinned_excluded": 0,
+      "pin_status_unknown": 5,
+      "chronological_completeness_verified": false,
+      "views_are_unique_reach": false,
+      "posts_inspected": 8,
+      "pinned_candidates_skipped": 0
+    },
+    "duration_seconds": 18.95
+  },
+  {
+    "status": "partial",
+    "platform": "instagram",
+    "source_url": "https://www.instagram.com/el_adieva/",
+    "fetched_at": "2026-10-21T19:14:09.901057+00:00",
+    "missing_fields": [
+      "posts[0].is_pinned",
+      "posts[0].views",
+      "posts[1].is_pinned",
+      "posts[1].views",
+      "posts[2].is_pinned",
+      "posts[2].views",
+      "posts[3].is_pinned",
+      "posts[3].views",
+      "posts[4].is_pinned",
+      "posts[4].views"
+    ],
+    "warnings": [
+      "Conflicting following: embedded profile=1066, metadata=1089; using profile.",
+      "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed.",
+      "Only a bounded visible sample was collected. The platform's newest-post coverage and unknown pin status cannot be verified; statistics describe this sample only."
+    ],
+    "error": null,
+    "diagnostics": {
+      "screenshot": "diagnostics/26316099995042569f92dce423789303/page.png",
+      "id": "26316099995042569f92dce423789303",
+      "html": "diagnostics/26316099995042569f92dce423789303/evidence.html",
+      "stage": "extract",
+      "posts_found": 12,
+      "retention_days": 7,
+      "duration_seconds": 3.52
+    },
+    "profile": {
+      "username": "el_adieva",
+      "display_name": "• influencer • UGC creator • model",
+      "bio": "ELINA ADIEVA\nтут про лайфстайл\nвдохновляю на образы \nснимаю UGC для брендов \nсотрудничество @el_adieva.pr",
+      "followers": 22869,
+      "followers_raw": "22869",
+      "followers_is_approximate": false,
+      "metric_details": {
+        "followers": {
+          "value": 22869,
+          "display": "22869",
+          "precision": "reported",
+          "source": "embedded_profile_json.follower_count"
+        },
+        "following": {
+          "value": 1066,
+          "display": "1066",
+          "precision": "reported",
+          "source": "embedded_profile_json.following_count"
+        },
+        "posts": {
+          "value": 1692,
+          "display": "1,692",
+          "precision": "reported",
+          "source": "page_metadata"
+        }
+      },
+      "verified": false,
+      "private": false,
+      "public_contacts": [
+        {
+          "type": "social_handle",
+          "value": "@el_adieva.pr",
+          "platform": "instagram",
+          "source": "public_bio",
+          "evidence": "сотрудничество @el_adieva.pr"
+        }
+      ],
+      "external_links": [],
+      "source": "embedded_profile_json"
+    },
+    "posts": [
+      {
+        "id": "DeweDUFy_bD",
+        "url": "https://www.instagram.com/reel/DeweDUFy_bD/",
+        "author": "el_adieva",
+        "type": "video",
+        "published_at": "2026-10-21T13:07:37+00:00",
+        "is_pinned": null,
+        "caption": "устала смеяться пока монтировала 🤣",
+        "fetched_at": "2026-10-21T19:14:11.696474+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 435,
+            "display": "435",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 8,
+            "display": "8",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 435,
+        "comments": 8
+      },
+      {
+        "id": "DetMFanRCfZ",
+        "url": "https://www.instagram.com/reel/DetMFanRCfZ/",
+        "author": "el_adieva",
+        "type": "video",
+        "published_at": "2026-10-20T06:29:48+00:00",
+        "is_pinned": null,
+        "caption": "Когда мечта сбылась🇯🇵🥹🥹😍😍😍\n📍Japan",
+        "fetched_at": "2026-10-21T19:14:13.736207+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 1643,
+            "display": "1643",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 33,
+            "display": "33",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 1643,
+        "comments": 33
+      },
+      {
+        "id": "DeriiN0kibx",
+        "url": "https://www.instagram.com/p/DeriiN0kibx/",
+        "author": "el_adieva",
+        "type": "carousel",
+        "published_at": "2026-10-19T15:05:38+00:00",
+        "is_pinned": null,
+        "caption": "hi Bambi 🥰\n#narajapan #japantravelphoto #narakyoto #narakyototrip #narapark",
+        "fetched_at": "2026-10-21T19:14:15.858817+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 997,
+            "display": "997",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 997,
+        "comments": 3
+      },
+      {
+        "id": "DeoRT7kkfPg",
+        "url": "https://www.instagram.com/p/DeoRT7kkfPg/",
+        "author": "el_adieva",
+        "type": "carousel",
+        "published_at": "2026-10-18T08:37:25+00:00",
+        "is_pinned": null,
+        "caption": "from Moscow to Shanghai✈️\n\nна мне: @lovegoodslingerie \n@shanghai.explore \n#randomshanghai #randomshanghaimoments #outfittoday #casualoutfits #lookcasual",
+        "fetched_at": "2026-10-21T19:14:17.566123+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 1088,
+            "display": "1088",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 1088,
+        "comments": 3
+      },
+      {
+        "id": "Deg5G3IkfU2",
+        "url": "https://www.instagram.com/p/Deg5G3IkfU2/",
+        "author": "el_adieva",
+        "type": "carousel",
+        "published_at": "2026-10-15T11:51:14+00:00",
+        "is_pinned": null,
+        "caption": "пришла проверить как там обстоят дела на стройке 🙃\n\n#lookoftheday @tres_concept \n#casuallook #casualoutfits #casualstyle #ootd",
+        "fetched_at": "2026-10-21T19:14:20.109366+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 1222,
+            "display": "1222",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 4,
+            "display": "4",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 1222,
+        "comments": 4
+      }
+    ],
+    "pinned_posts_skipped": [],
+    "summary": {
+      "posts_requested": 5,
+      "posts_collected": 5,
+      "posts_with_views": 0,
+      "median_views": null,
+      "min_views": null,
+      "max_views": null,
+      "sample_date_from": "2026-10-15T11:51:14+00:00",
+      "sample_date_to": "2026-10-21T13:07:37+00:00",
+      "pinned_excluded": 0,
+      "pin_status_unknown": 5,
+      "chronological_completeness_verified": false,
+      "views_are_unique_reach": false,
+      "posts_inspected": 8,
+      "pinned_candidates_skipped": 0
+    },
+    "duration_seconds": 37.03
+  },
+  {
+    "status": "partial",
+    "platform": "instagram",
+    "source_url": "https://www.instagram.com/princessplyusha/",
+    "fetched_at": "2026-10-21T19:14:55.119000+00:00",
+    "missing_fields": [
+      "posts[0].is_pinned",
+      "posts[0].views",
+      "posts[1].is_pinned",
+      "posts[1].views",
+      "posts[2].is_pinned",
+      "posts[2].views",
+      "posts[3].is_pinned",
+      "posts[3].views",
+      "posts[4].is_pinned",
+      "posts[4].views"
+    ],
+    "warnings": [
+      "Conflicting following: embedded profile=263, metadata=276; using profile.",
+      "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed.",
+      "Only a bounded visible sample was collected. The platform's newest-post coverage and unknown pin status cannot be verified; statistics describe this sample only."
+    ],
+    "error": null,
+    "diagnostics": {
+      "screenshot": "diagnostics/3a77999ba4bf414999e57e18e9a42dbf/page.png",
+      "id": "3a77999ba4bf414999e57e18e9a42dbf",
+      "html": "diagnostics/3a77999ba4bf414999e57e18e9a42dbf/evidence.html",
+      "stage": "extract",
+      "posts_found": 12,
+      "retention_days": 7,
+      "duration_seconds": 2.3
+    },
+    "profile": {
+      "username": "princessplyusha",
+      "display_name": "НоузВорк|Воронеж",
+      "bio": "НоузВорк тренер Саша\n♡ и рыжая бестия Плюша",
+      "followers": 6958,
+      "followers_raw": "6958",
+      "followers_is_approximate": false,
+      "metric_details": {
+        "followers": {
+          "value": 6958,
+          "display": "6958",
+          "precision": "reported",
+          "source": "embedded_profile_json.follower_count"
+        },
+        "following": {
+          "value": 263,
+          "display": "263",
+          "precision": "reported",
+          "source": "embedded_profile_json.following_count"
+        },
+        "posts": {
+          "value": 1225,
+          "display": "1,225",
+          "precision": "reported",
+          "source": "page_metadata"
+        }
+      },
+      "verified": false,
+      "private": false,
+      "public_contacts": [],
+      "external_links": [
+        "https://vk.com/noseworkvrn",
+        "https://vk.com/princessplyushavk",
+        "https://t.me/princessplyushatg"
+      ],
+      "source": "embedded_profile_json"
+    },
+    "posts": [
+      {
+        "id": "DdTqEDUiozB",
+        "url": "https://www.instagram.com/p/DdTqEDUiozB/",
+        "author": "princessplyusha",
+        "type": "carousel",
+        "published_at": "2026-09-15T11:58:15+00:00",
+        "is_pinned": null,
+        "caption": "И ещё немного свежих фоточек в честь собачкиного др🤍",
+        "fetched_at": "2026-10-21T19:14:56.437052+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 7,
+            "display": "7",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 7
+      },
+      {
+        "id": "DdTF4QqKMBL",
+        "url": "https://www.instagram.com/reel/DdTF4QqKMBL/",
+        "author": "princessplyusha",
+        "type": "video",
+        "published_at": "2026-09-15T06:42:25+00:00",
+        "is_pinned": null,
+        "caption": "С днём рождения, моя душа🤍",
+        "fetched_at": "2026-10-21T19:14:57.409645+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 272,
+            "display": "272",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 117,
+            "display": "117",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 272,
+        "comments": 117
+      },
+      {
+        "id": "DbOmYExCnP7",
+        "url": "https://www.instagram.com/p/DbOmYExCnP7/",
+        "author": "princessplyusha",
+        "type": "carousel",
+        "published_at": "2026-07-25T19:47:02+00:00",
+        "is_pinned": null,
+        "caption": "Немного летних кадров 💚🌿",
+        "fetched_at": "2026-10-21T19:14:58.967778+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 91,
+            "display": "91",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 9,
+            "display": "9",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 91,
+        "comments": 9
+      },
+      {
+        "id": "DalAB9MilX4",
+        "url": "https://www.instagram.com/p/DalAB9MilX4/",
+        "author": "princessplyusha",
+        "type": "carousel",
+        "published_at": "2026-07-09T16:03:06+00:00",
+        "is_pinned": null,
+        "caption": "Получилось поснимать 1 и 2 классы на соревнованиях РАНВ в Воронеже!\nХочу поделиться с вами замечательной командной работой выступающих пар!\n\nИ не смотря на абсолютно сумасшедшую погоду: жару, ураганный ветер, град, сильнейший дождь. И не смотря на внешние факторы в виде стрельбы пейнтболистов в соседнем лагере, у нас получилось абсолютно чудесно провести соревнования.\n\nПлюша пронюхала все три класса и была молодцом. Жаль нас никто не снял :)",
+        "fetched_at": "2026-10-21T19:15:00.682796+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 63,
+            "display": "63",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 4,
+            "display": "4",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 63,
+        "comments": 4
+      },
+      {
+        "id": "DZnQylzCtnb",
+        "url": "https://www.instagram.com/p/DZnQylzCtnb/",
+        "author": "princessplyusha",
+        "type": "carousel",
+        "published_at": "2026-06-15T16:36:39+00:00",
+        "is_pinned": null,
+        "caption": "Пока сидим на больничном, прилетели чудесные фотографии с соревнований по НоузВорк в Казани🫶",
+        "fetched_at": "2026-10-21T19:15:02.108962+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 71,
+            "display": "71",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 5,
+            "display": "5",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 71,
+        "comments": 5
+      }
+    ],
+    "pinned_posts_skipped": [],
+    "summary": {
+      "posts_requested": 5,
+      "posts_collected": 5,
+      "posts_with_views": 0,
+      "median_views": null,
+      "min_views": null,
+      "max_views": null,
+      "sample_date_from": "2026-06-15T16:36:39+00:00",
+      "sample_date_to": "2026-09-15T11:58:15+00:00",
+      "pinned_excluded": 0,
+      "pin_status_unknown": 5,
+      "chronological_completeness_verified": false,
+      "views_are_unique_reach": false,
+      "posts_inspected": 8,
+      "pinned_candidates_skipped": 0
+    },
+    "duration_seconds": 76.89
+  },
+  {
+    "status": "partial",
+    "platform": "instagram",
+    "source_url": "https://www.instagram.com/sofa_beauty/",
+    "fetched_at": "2026-10-21T19:16:07.242480+00:00",
+    "missing_fields": [
+      "posts[0].is_pinned",
+      "posts[0].views",
+      "posts[1].is_pinned",
+      "posts[1].views",
+      "posts[2].is_pinned",
+      "posts[2].views",
+      "posts[3].is_pinned",
+      "posts[3].views",
+      "posts[4].is_pinned",
+      "posts[4].views"
+    ],
+    "warnings": [
+      "Conflicting followers: embedded profile=6232, metadata=6231; using profile.",
+      "Conflicting following: embedded profile=437, metadata=444; using profile.",
+      "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed.",
+      "Only a bounded visible sample was collected. The platform's newest-post coverage and unknown pin status cannot be verified; statistics describe this sample only."
+    ],
+    "error": null,
+    "diagnostics": {
+      "screenshot": "diagnostics/a0a350d709c44ee0bc82076bb02648ff/page.png",
+      "id": "a0a350d709c44ee0bc82076bb02648ff",
+      "html": "diagnostics/a0a350d709c44ee0bc82076bb02648ff/evidence.html",
+      "stage": "extract",
+      "posts_found": 12,
+      "retention_days": 7,
+      "duration_seconds": 1.46
+    },
+    "profile": {
+      "username": "sofa_beauty",
+      "display_name": "бьюти & лайфстайл блогер | ugc креатор | skincare | таганрог",
+      "bio": "Софа: бьюти мастер | работаю с клиентами @sofa___beauty \nЗдесь моя жизнь - без фильтров и прикрас, с полезными советами о красоте и распаковками",
+      "followers": 6232,
+      "followers_raw": "6232",
+      "followers_is_approximate": false,
+      "metric_details": {
+        "followers": {
+          "value": 6232,
+          "display": "6232",
+          "precision": "reported",
+          "source": "embedded_profile_json.follower_count"
+        },
+        "following": {
+          "value": 437,
+          "display": "437",
+          "precision": "reported",
+          "source": "embedded_profile_json.following_count"
+        },
+        "posts": {
+          "value": 677,
+          "display": "677",
+          "precision": "reported",
+          "source": "page_metadata"
+        }
+      },
+      "verified": false,
+      "private": false,
+      "public_contacts": [],
+      "external_links": [
+        "https://dikidi.net/1724055",
+        "https://likee.onelink.me/FvnB/sofabeauty"
+      ],
+      "source": "embedded_profile_json"
+    },
+    "posts": [
+      {
+        "id": "DeR2VS2Iq_s",
+        "url": "https://www.instagram.com/reel/DeR2VS2Iq_s/",
+        "author": "sofa_beauty",
+        "type": "video",
+        "published_at": "2026-10-09T15:41:10+00:00",
+        "is_pinned": null,
+        "caption": "метод для мягкого введения ретинола в свой уход 🤍🔥\n#daricrew #purito",
+        "fetched_at": "2026-10-21T19:16:10.492875+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 4,
+            "display": "4",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 4
+      },
+      {
+        "id": "DeR2LAZoYNV",
+        "url": "https://www.instagram.com/reel/DeR2LAZoYNV/",
+        "author": "sofa_beauty",
+        "type": "video",
+        "published_at": "2026-10-09T15:37:54+00:00",
+        "is_pinned": null,
+        "caption": "💛 RETINAL NMN Bounce Shot Booster\nсодержит Retinal 1000 ppm, NMN, NAD+, ниацинамид 20 000 рт и бакучиол.\nПодходит для работы с морщинами, потерей упругости и неровной текстурой кожи, там где чаще всего появляются возрастные изменения: область вокруг глаз, межбровье, носогубные складки.\n\nRETINAL NMN Bounce Shot Eye Cream\nсодержит ту же формулу, что и бустер.\nего особенность - вибрирующий аппликатор с массажным эффектом 🔥\n#daricrew #medipeel",
+        "fetched_at": "2026-10-21T19:16:09.173466+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 10,
+            "display": "10",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 10
+      },
+      {
+        "id": "DeO7LcOI57X",
+        "url": "https://www.instagram.com/reel/DeO7LcOI57X/",
+        "author": "sofa_beauty",
+        "type": "video",
+        "published_at": "2026-10-08T12:25:58+00:00",
+        "is_pinned": null,
+        "caption": "если время с семьей , то только так! 🫂🙏🏻\nникаких ваших туркиш, онли раша и @prostoles_glamping ! 🇷🇺🤍🫂\nа тут без слов, когда вкусно, тогда вкусно @panama.sushi.tgn 🍣❤️",
+        "fetched_at": "2026-10-21T19:16:11.563295+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 30,
+            "display": "30",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 30
+      },
+      {
+        "id": "DeB_CMDovZO",
+        "url": "https://www.instagram.com/reel/DeB_CMDovZO/",
+        "author": "sofa_beauty",
+        "type": "video",
+        "published_at": "2026-10-03T11:48:23+00:00",
+        "is_pinned": null,
+        "caption": "как круто, что топовые продукты в Корее, теперь можно найти и в России! в магазине @goldapple 🤍 не зря эта сыворотка там такая популярная 😉 #daricrew #torriden",
+        "fetched_at": "2026-10-21T19:16:12.499544+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 10,
+            "display": "10",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 10
+      },
+      {
+        "id": "Dd-w0OGI2Xi",
+        "url": "https://www.instagram.com/reel/Dd-w0OGI2Xi/",
+        "author": "sofa_beauty",
+        "type": "video",
+        "published_at": "2026-10-02T05:52:31+00:00",
+        "is_pinned": null,
+        "caption": "для меня линейка TECA от @skin1004.cis является спасением в период холодов 🤍\nогромный плюс этих продуктов, что они не только увлажняют и делают кожу сияющей, но их первостепенная цель, благодаря комплексу TECA - это УСПОКАИВАТЬ кожу и ВОССТАНАВЛИВАТЬ барьер. А это важные якоря в уходе , с наступлением осени 🪽#daricrew #skin1004",
+        "fetched_at": "2026-10-21T19:16:13.428952+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 0,
+            "display": "0",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 0
+      }
+    ],
+    "pinned_posts_skipped": [],
+    "summary": {
+      "posts_requested": 5,
+      "posts_collected": 5,
+      "posts_with_views": 0,
+      "median_views": null,
+      "min_views": null,
+      "max_views": null,
+      "sample_date_from": "2026-10-02T05:52:31+00:00",
+      "sample_date_to": "2026-10-09T15:41:10+00:00",
+      "pinned_excluded": 0,
+      "pin_status_unknown": 5,
+      "chronological_completeness_verified": false,
+      "views_are_unique_reach": false,
+      "posts_inspected": 8,
+      "pinned_candidates_skipped": 0
+    },
+    "duration_seconds": 33.47
+  },
+  {
+    "status": "partial",
+    "platform": "instagram",
+    "source_url": "https://www.instagram.com/amina_black_afgano_/",
+    "fetched_at": "2026-10-21T19:16:19.033353+00:00",
+    "missing_fields": [
+      "posts[0].is_pinned",
+      "posts[0].views",
+      "posts[1].is_pinned",
+      "posts[1].views",
+      "posts[2].is_pinned",
+      "posts[2].views",
+      "posts[3].is_pinned",
+      "posts[3].views",
+      "posts[4].is_pinned",
+      "posts[4].views"
+    ],
+    "warnings": [
+      "Conflicting following: embedded profile=1490, metadata=1538; using profile.",
+      "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed.",
+      "Only a bounded visible sample was collected. The platform's newest-post coverage and unknown pin status cannot be verified; statistics describe this sample only."
+    ],
+    "error": null,
+    "diagnostics": {
+      "screenshot": "diagnostics/a7ef4cd49ac940b6b297f20b2faa11d4/page.png",
+      "id": "a7ef4cd49ac940b6b297f20b2faa11d4",
+      "html": "diagnostics/a7ef4cd49ac940b6b297f20b2faa11d4/evidence.html",
+      "stage": "extract",
+      "posts_found": 12,
+      "retention_days": 7,
+      "duration_seconds": 1.94
+    },
+    "profile": {
+      "username": "amina_black_afgano_",
+      "display_name": "СТИЛИСТ • LIFESTYLE INFLUENCER • АМИНА АДАЕВА • ВОРОНЕЖ",
+      "bio": "Говорят,у меня отличный вкус🍸\n♱ Делюсь обзорами брендов, фешн находками, модничаю и вещаю о разном. \n♱Мастерски создаю, разбираю,собираю ваш гардероб.",
+      "followers": 10380,
+      "followers_raw": "10380",
+      "followers_is_approximate": false,
+      "metric_details": {
+        "followers": {
+          "value": 10380,
+          "display": "10380",
+          "precision": "reported",
+          "source": "embedded_profile_json.follower_count"
+        },
+        "following": {
+          "value": 1490,
+          "display": "1490",
+          "precision": "reported",
+          "source": "embedded_profile_json.following_count"
+        },
+        "posts": {
+          "value": 641,
+          "display": "641",
+          "precision": "reported",
+          "source": "page_metadata"
+        }
+      },
+      "verified": false,
+      "private": false,
+      "public_contacts": [],
+      "external_links": [
+        "https://t.me/Wheress_my_gun"
+      ],
+      "source": "embedded_profile_json"
+    },
+    "posts": [
+      {
+        "id": "Deod3HejDYv",
+        "url": "https://www.instagram.com/p/Deod3HejDYv/",
+        "author": "amina_black_afgano_",
+        "type": "carousel",
+        "published_at": "2026-10-18T10:27:04+00:00",
+        "is_pinned": null,
+        "caption": "Не могу припомнить такого благостного октября как в этом году.🍂\n\nБродить по осеннему лесу, рассматривать тропки животных, есть дичь в местном ресторане, слышать как опадают листья с деревьев и наблюдать за оленями… вечером смотреть диснеевские мультфильмы и уснуть под шум реки🤌🏽💔\n\nLookoftheday #\n\nРемень и футболка @limestorecom \nОбувь @maisonmargiela \nОчки @gucci \nКуртка @furs_queen_crimea \nДжинсы @befree_fashion \nШляпа @aliexpress \n\n📍 @park.oleniy",
+        "fetched_at": "2026-10-21T19:16:20.603147+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 10,
+            "display": "10",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 10
+      },
+      {
+        "id": "DeemsmhM6bw",
+        "url": "https://www.instagram.com/reel/DeemsmhM6bw/",
+        "author": "amina_black_afgano_",
+        "type": "video",
+        "published_at": "2026-10-14T14:32:30+00:00",
+        "is_pinned": null,
+        "caption": "Ничего не могу поделать, отрицательные персонажи всегда более многогранные 🤭🃏",
+        "fetched_at": "2026-10-21T19:16:21.805347+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 10,
+            "display": "10",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 10
+      },
+      {
+        "id": "DeeGnJYDPK5",
+        "url": "https://www.instagram.com/p/DeeGnJYDPK5/",
+        "author": "amina_black_afgano_",
+        "type": "carousel",
+        "published_at": "2026-10-14T09:51:30+00:00",
+        "is_pinned": null,
+        "caption": "Очень необычно, зайка 💸🚬🐰",
+        "fetched_at": "2026-10-21T19:16:22.992920+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 2,
+            "display": "2",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 2
+      },
+      {
+        "id": "DeZ5qDLxUMB",
+        "url": "https://www.instagram.com/reel/DeZ5qDLxUMB/",
+        "author": "amina_black_afgano_",
+        "type": "video",
+        "published_at": "2026-10-12T18:42:47+00:00",
+        "is_pinned": null,
+        "caption": "Октябрь решил нам подарить лето в середине осени…🍂☀️\n\nМы попали в идеальные выходные.\nБудто природа специально берегла эти теплые дни,чтобы мы успели вдохнуть это прозрачное тепло. \n\n📍🦌 @park.oleniy",
+        "fetched_at": "2026-10-21T19:16:24.233527+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 2,
+            "display": "2",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 2
+      },
+      {
+        "id": "DeEKhkbDNzq",
+        "url": "https://www.instagram.com/p/DeEKhkbDNzq/",
+        "author": "amina_black_afgano_",
+        "type": "carousel",
+        "published_at": "2026-10-04T08:05:27+00:00",
+        "is_pinned": null,
+        "caption": "Сезон плащей 🍂🐈‍⬛",
+        "fetched_at": "2026-10-21T19:16:25.931131+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 11,
+            "display": "11",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 11
+      }
+    ],
+    "pinned_posts_skipped": [],
+    "summary": {
+      "posts_requested": 5,
+      "posts_collected": 5,
+      "posts_with_views": 0,
+      "median_views": null,
+      "min_views": null,
+      "max_views": null,
+      "sample_date_from": "2026-10-04T08:05:27+00:00",
+      "sample_date_to": "2026-10-18T10:27:04+00:00",
+      "pinned_excluded": 0,
+      "pin_status_unknown": 5,
+      "chronological_completeness_verified": false,
+      "views_are_unique_reach": false,
+      "posts_inspected": 8,
+      "pinned_candidates_skipped": 0
+    },
+    "duration_seconds": 45.35
+  },
+  {
+    "status": "partial",
+    "platform": "instagram",
+    "source_url": "https://www.instagram.com/nataliachizhova/",
+    "fetched_at": "2026-10-21T19:15:44.075376+00:00",
+    "missing_fields": [
+      "posts[0].is_pinned",
+      "posts[0].views",
+      "posts[1].is_pinned",
+      "posts[1].views",
+      "posts[2].is_pinned",
+      "posts[2].views",
+      "posts[3].is_pinned",
+      "posts[3].views",
+      "posts[4].is_pinned",
+      "posts[4].views"
+    ],
+    "warnings": [
+      "Conflicting following: embedded profile=589, metadata=610; using profile.",
+      "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed.",
+      "Only a bounded visible sample was collected. The platform's newest-post coverage and unknown pin status cannot be verified; statistics describe this sample only."
+    ],
+    "error": null,
+    "diagnostics": {
+      "screenshot": "diagnostics/381ac6cd4aff44fe8f7d9d50b7a2d19c/page.png",
+      "id": "381ac6cd4aff44fe8f7d9d50b7a2d19c",
+      "html": "diagnostics/381ac6cd4aff44fe8f7d9d50b7a2d19c/evidence.html",
+      "stage": "extract",
+      "posts_found": 12,
+      "retention_days": 7,
+      "duration_seconds": 1.42
+    },
+    "profile": {
+      "username": "nataliachizhova",
+      "display_name": "Наталья | инфлюенсер • бьюти • стиль • UGC | Екб•СПб",
+      "bio": "• Амбассадор идеальной кожи\n• Создаю UGC контент\n• Тестирую на себе и делюсь впечатлением",
+      "followers": 16896,
+      "followers_raw": "16896",
+      "followers_is_approximate": false,
+      "metric_details": {
+        "followers": {
+          "value": 16896,
+          "display": "16896",
+          "precision": "reported",
+          "source": "embedded_profile_json.follower_count"
+        },
+        "following": {
+          "value": 589,
+          "display": "589",
+          "precision": "reported",
+          "source": "embedded_profile_json.following_count"
+        },
+        "posts": {
+          "value": 1764,
+          "display": "1,764",
+          "precision": "reported",
+          "source": "page_metadata"
+        }
+      },
+      "verified": false,
+      "private": false,
+      "public_contacts": [],
+      "external_links": [],
+      "source": "embedded_profile_json"
+    },
+    "posts": [
+      {
+        "id": "DeU9Magq6Xn",
+        "url": "https://www.instagram.com/reel/DeU9Magq6Xn/",
+        "author": "nataliachizhova",
+        "type": "video",
+        "published_at": "2026-10-10T20:36:23+00:00",
+        "is_pinned": null,
+        "caption": "Восстановление губ осенью ❤️",
+        "fetched_at": "2026-10-21T19:15:45.316745+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 48,
+            "display": "48",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 2,
+            "display": "2",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 48,
+        "comments": 2
+      },
+      {
+        "id": "DeKZzhAqSma",
+        "url": "https://www.instagram.com/reel/DeKZzhAqSma/",
+        "author": "nataliachizhova",
+        "type": "video",
+        "published_at": "2026-10-06T18:16:31+00:00",
+        "is_pinned": null,
+        "caption": "Долгожданная палетка у меня 🤍\nЗаказала самую светлую, но она прям сильно теплая, для тех, кто любит оттенки холоднее - не подойдет 💔\n#hourglasscosmetics #hourglass #бьютинаходки",
+        "fetched_at": "2026-10-21T19:15:47.383446+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 230,
+            "display": "230",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 9,
+            "display": "9",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 230,
+        "comments": 9
+      },
+      {
+        "id": "DeJzHlzs1ND",
+        "url": "https://www.instagram.com/reel/DeJzHlzs1ND/",
+        "author": "nataliachizhova",
+        "type": "video",
+        "published_at": "2026-10-06T12:37:55+00:00",
+        "is_pinned": null,
+        "caption": "Осень в Питере ❤️\n#autumnvibes #спб #осеньвпитере",
+        "fetched_at": "2026-10-21T19:15:46.274456+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 105,
+            "display": "105",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 105,
+        "comments": 3
+      },
+      {
+        "id": "DeElY4CqjuR",
+        "url": "https://www.instagram.com/reel/DeElY4CqjuR/",
+        "author": "nataliachizhova",
+        "type": "video",
+        "published_at": "2026-10-04T12:04:23+00:00",
+        "is_pinned": null,
+        "caption": "Glass skin от Skin1004:\nЧисло 1004 по-корейски звучит как 천사 (чхонса) — «ангел». Сегодня 10.04 (4 октября) можно сказать день «ангельской кожи» 🤍 #skin1004 #daricrew",
+        "fetched_at": "2026-10-21T19:15:48.683443+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 47,
+            "display": "47",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 2,
+            "display": "2",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 47,
+        "comments": 2
+      },
+      {
+        "id": "DeASNHqKSK4",
+        "url": "https://www.instagram.com/reel/DeASNHqKSK4/",
+        "author": "nataliachizhova",
+        "type": "video",
+        "published_at": "2026-10-02T19:56:35+00:00",
+        "is_pinned": null,
+        "caption": "Максимальное увлажнение этой осенью 🩵",
+        "fetched_at": "2026-10-21T19:15:50.151874+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 74,
+            "display": "74",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 2,
+            "display": "2",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 74,
+        "comments": 2
+      }
+    ],
+    "pinned_posts_skipped": [],
+    "summary": {
+      "posts_requested": 5,
+      "posts_collected": 5,
+      "posts_with_views": 0,
+      "median_views": null,
+      "min_views": null,
+      "max_views": null,
+      "sample_date_from": "2026-10-02T19:56:35+00:00",
+      "sample_date_to": "2026-10-10T20:36:23+00:00",
+      "pinned_excluded": 0,
+      "pin_status_unknown": 5,
+      "chronological_completeness_verified": false,
+      "views_are_unique_reach": false,
+      "posts_inspected": 8,
+      "pinned_candidates_skipped": 0
+    },
+    "duration_seconds": 11.41
+  },
+  {
+    "status": "partial",
+    "platform": "instagram",
+    "source_url": "https://www.instagram.com/iampolinan/",
+    "fetched_at": "2026-10-21T19:15:55.884709+00:00",
+    "missing_fields": [
+      "posts[0].is_pinned",
+      "posts[0].views",
+      "posts[1].is_pinned",
+      "posts[1].views",
+      "posts[2].is_pinned",
+      "posts[2].views",
+      "posts[3].is_pinned",
+      "posts[3].views",
+      "posts[4].is_pinned",
+      "posts[4].views"
+    ],
+    "warnings": [
+      "Conflicting following: embedded profile=163, metadata=170; using profile.",
+      "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed.",
+      "Only a bounded visible sample was collected. The platform's newest-post coverage and unknown pin status cannot be verified; statistics describe this sample only."
+    ],
+    "error": null,
+    "diagnostics": {
+      "screenshot": "diagnostics/1e6437ae4ba44ef89a13a3c8e65833e3/page.png",
+      "id": "1e6437ae4ba44ef89a13a3c8e65833e3",
+      "html": "diagnostics/1e6437ae4ba44ef89a13a3c8e65833e3/evidence.html",
+      "stage": "extract",
+      "posts_found": 12,
+      "retention_days": 7,
+      "duration_seconds": 1.68
+    },
+    "profile": {
+      "username": "iampolinan",
+      "display_name": "полинка самолетова ⟡ лайфстайл | бьюти | ugc ⟡",
+      "bio": "✴︎ блогер - домосед в Московской коммуналке ✴︎\nсотрудничество @iampolinan_pr\nкрашусь, одеваюсь, красиво вижу ★⋆˙⟡\nтут одно, в тг другое ↓",
+      "followers": 32699,
+      "followers_raw": "32699",
+      "followers_is_approximate": false,
+      "metric_details": {
+        "followers": {
+          "value": 32699,
+          "display": "32699",
+          "precision": "reported",
+          "source": "embedded_profile_json.follower_count"
+        },
+        "following": {
+          "value": 163,
+          "display": "163",
+          "precision": "reported",
+          "source": "embedded_profile_json.following_count"
+        },
+        "posts": {
+          "value": 2061,
+          "display": "2,061",
+          "precision": "reported",
+          "source": "page_metadata"
+        }
+      },
+      "verified": false,
+      "private": false,
+      "public_contacts": [
+        {
+          "type": "social_handle",
+          "value": "@iampolinan_pr",
+          "platform": "instagram",
+          "source": "public_bio",
+          "evidence": "сотрудничество @iampolinan_pr"
+        }
+      ],
+      "external_links": [
+        "https://t.me/+UwUvnr7WpoowNWU6"
+      ],
+      "source": "embedded_profile_json"
+    },
+    "posts": [
+      {
+        "id": "DewntzHOSi5",
+        "url": "https://www.instagram.com/reel/DewntzHOSi5/",
+        "author": "iampolinan",
+        "type": "video",
+        "published_at": "2026-10-21T14:28:24+00:00",
+        "is_pinned": null,
+        "caption": "сохраняй идею для до/после!!!❤️‍🔥\nвзяли бы меня в Victoria’s Secret Fashion Show?🔥🧯❤️‍🔥\n\n🧶🤎🍐крашусь, одеваюсь и иду к 40.000 в московской коммуналке, давай со мной?",
+        "fetched_at": "2026-10-21T19:15:56.695853+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 268,
+            "display": "268",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 23,
+            "display": "23",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 268,
+        "comments": 23
+      },
+      {
+        "id": "DeuJQMnO_NQ",
+        "url": "https://www.instagram.com/reel/DeuJQMnO_NQ/",
+        "author": "iampolinan",
+        "type": "video",
+        "published_at": "2026-10-20T15:24:30+00:00",
+        "is_pinned": null,
+        "caption": "ты знаешь кому отправить это видео🫰🏼\nприложение, в котором я смотрю лекции- Интроверт\n\n🧶🤎🍐крашусь, одеваюсь и иду к 40.000 в московской коммуналке, давай со мной?",
+        "fetched_at": "2026-10-21T19:15:57.636032+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 77,
+            "display": "77",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 6,
+            "display": "6",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 77,
+        "comments": 6
+      },
+      {
+        "id": "DepD4XFucgd",
+        "url": "https://www.instagram.com/reel/DepD4XFucgd/",
+        "author": "iampolinan",
+        "type": "video",
+        "published_at": "2026-10-18T16:00:22+00:00",
+        "is_pinned": null,
+        "caption": "мы?\n\n🧶🤎🍐крашусь, одеваюсь и иду к 40.000 в московской коммуналке, давай со мной?",
+        "fetched_at": "2026-10-21T19:15:58.836113+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 301,
+            "display": "301",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 8,
+            "display": "8",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 301,
+        "comments": 8
+      },
+      {
+        "id": "DemXeX0O3yD",
+        "url": "https://www.instagram.com/reel/DemXeX0O3yD/",
+        "author": "iampolinan",
+        "type": "video",
+        "published_at": "2026-10-17T15:05:31+00:00",
+        "is_pinned": null,
+        "caption": "Место в 120 км от Москвы о котором хочется рассказать всем… \n\nпредставьте: старинный дом художника, бескрайняя Ока, уютные дорожки среди зелени и атмосфера, в которой время будто остановилось\n\nесли будете в Тульской области-обязательно добавьте Поленово в свой маршрут\n\n📍 Тульская область, Заокский район, музей-заповедник «Поленово»\n\n🧶🤎🍐крашусь, одеваюсь и иду к 40.000 в московской коммуналке, давай со мной?",
+        "fetched_at": "2026-10-21T19:16:00.352131+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 729,
+            "display": "729",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 15,
+            "display": "15",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 729,
+        "comments": 15
+      },
+      {
+        "id": "DejxSU3OJRb",
+        "url": "https://www.instagram.com/reel/DejxSU3OJRb/",
+        "author": "iampolinan",
+        "type": "video",
+        "published_at": "2026-10-16T14:42:28+00:00",
+        "is_pinned": null,
+        "caption": "я когда всегда.\n\n🧶🤎🍐крашусь, одеваюсь и иду к 40.000 в московской коммуналке, давай со мной?",
+        "fetched_at": "2026-10-21T19:16:01.573299+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 939,
+            "display": "939",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 8,
+            "display": "8",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 939,
+        "comments": 8
+      }
+    ],
+    "pinned_posts_skipped": [],
+    "summary": {
+      "posts_requested": 5,
+      "posts_collected": 5,
+      "posts_with_views": 0,
+      "median_views": null,
+      "min_views": null,
+      "max_views": null,
+      "sample_date_from": "2026-10-16T14:42:28+00:00",
+      "sample_date_to": "2026-10-21T14:28:24+00:00",
+      "pinned_excluded": 0,
+      "pin_status_unknown": 5,
+      "chronological_completeness_verified": false,
+      "views_are_unique_reach": false,
+      "posts_inspected": 8,
+      "pinned_candidates_skipped": 0
+    },
+    "duration_seconds": 22.77
+  },
+  {
+    "status": "partial",
+    "platform": "instagram",
+    "source_url": "https://www.instagram.com/psheniichkaaa/",
+    "fetched_at": "2026-10-21T19:16:37.172012+00:00",
+    "missing_fields": [
+      "posts[0].is_pinned",
+      "posts[0].views",
+      "posts[1].is_pinned",
+      "posts[1].views",
+      "posts[2].is_pinned",
+      "posts[2].views",
+      "posts[3].is_pinned",
+      "posts[3].views",
+      "posts[4].is_pinned",
+      "posts[4].views"
+    ],
+    "warnings": [
+      "Conflicting followers: embedded profile=2559, metadata=2560; using profile.",
+      "Conflicting following: embedded profile=553, metadata=569; using profile.",
+      "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed.",
+      "Only a bounded visible sample was collected. The platform's newest-post coverage and unknown pin status cannot be verified; statistics describe this sample only."
+    ],
+    "error": null,
+    "diagnostics": {
+      "screenshot": "diagnostics/b265302a1d024bc68f9ca4553badcaf6/page.png",
+      "id": "b265302a1d024bc68f9ca4553badcaf6",
+      "html": "diagnostics/b265302a1d024bc68f9ca4553badcaf6/evidence.html",
+      "stage": "extract",
+      "posts_found": 12,
+      "retention_days": 7,
+      "duration_seconds": 1.7
+    },
+    "profile": {
+      "username": "psheniichkaaa",
+      "display_name": "Лизка, 20",
+      "bio": "television UNI 🪩\ncontent creator \nTik Tok - pshenichhka 3.5k\n⠀\nabout inspiration, skincare & my life\ni’m still very kind :)\n⠀\nКazan, Russia",
+      "followers": 2559,
+      "followers_raw": "2559",
+      "followers_is_approximate": false,
+      "metric_details": {
+        "followers": {
+          "value": 2559,
+          "display": "2559",
+          "precision": "reported",
+          "source": "embedded_profile_json.follower_count"
+        },
+        "following": {
+          "value": 553,
+          "display": "553",
+          "precision": "reported",
+          "source": "embedded_profile_json.following_count"
+        },
+        "posts": {
+          "value": 19,
+          "display": "19",
+          "precision": "reported",
+          "source": "page_metadata"
+        }
+      },
+      "verified": false,
+      "private": false,
+      "public_contacts": [],
+      "external_links": [
+        "https://t.me/pshenichkaaaaa"
+      ],
+      "source": "embedded_profile_json"
+    },
+    "posts": [
+      {
+        "id": "DebYnR6jqZ-",
+        "url": "https://www.instagram.com/p/DebYnR6jqZ-/",
+        "author": "psheniichkaaa",
+        "type": "carousel",
+        "published_at": "2026-10-13T08:31:05+00:00",
+        "is_pinned": null,
+        "caption": "Ожившая кукла Братц 💙 \nph: @karishokkk",
+        "fetched_at": "2026-10-21T19:16:38.275087+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 37,
+            "display": "37",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 37
+      },
+      {
+        "id": "DbSh5-ijiWk",
+        "url": "https://www.instagram.com/p/DbSh5-ijiWk/",
+        "author": "psheniichkaaa",
+        "type": "carousel",
+        "published_at": "2026-07-27T08:24:56+00:00",
+        "is_pinned": null,
+        "caption": "Прогулялись под дождем с @karishokkk 🤍",
+        "fetched_at": "2026-10-21T19:16:39.107082+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 101,
+            "display": "101",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 7,
+            "display": "7",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 101,
+        "comments": 7
+      },
+      {
+        "id": "DavJEZ0jTzn",
+        "url": "https://www.instagram.com/p/DavJEZ0jTzn/",
+        "author": "psheniichkaaa",
+        "type": "carousel",
+        "published_at": "2026-07-13T14:34:29+00:00",
+        "is_pinned": null,
+        "caption": "Не должна такая красота только в галерее оставаться 💔",
+        "fetched_at": "2026-10-21T19:16:40.584115+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 88,
+            "display": "88",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 4,
+            "display": "4",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 88,
+        "comments": 4
+      },
+      {
+        "id": "DaFQiVHjai3",
+        "url": "https://www.instagram.com/p/DaFQiVHjai3/",
+        "author": "psheniichkaaa",
+        "type": "carousel",
+        "published_at": "2026-06-27T08:11:38+00:00",
+        "is_pinned": null,
+        "caption": "⠀\nЧем старше становлюсь, тем меньше хочется куда-то спешить. Всё самое важное почему-то приходит не вовремя, а тогда, когда ты к этому готов 🤍 \n\n21!\nph: @karishokkk",
+        "fetched_at": "2026-10-21T19:16:42.029358+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 21,
+            "display": "21",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 21
+      },
+      {
+        "id": "DZs0K_qDntj",
+        "url": "https://www.instagram.com/p/DZs0K_qDntj/",
+        "author": "psheniichkaaa",
+        "type": "carousel",
+        "published_at": "2026-06-17T20:22:01+00:00",
+        "is_pinned": null,
+        "caption": "Зачастила с постами, не раз в год выкладываю 👏🏼",
+        "fetched_at": "2026-10-21T19:16:43.426066+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 29,
+            "display": "29",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 29
+      }
+    ],
+    "pinned_posts_skipped": [],
+    "summary": {
+      "posts_requested": 5,
+      "posts_collected": 5,
+      "posts_with_views": 0,
+      "median_views": null,
+      "min_views": null,
+      "max_views": null,
+      "sample_date_from": "2026-06-17T20:22:01+00:00",
+      "sample_date_to": "2026-10-13T08:31:05+00:00",
+      "pinned_excluded": 0,
+      "pin_status_unknown": 5,
+      "chronological_completeness_verified": false,
+      "views_are_unique_reach": false,
+      "posts_inspected": 8,
+      "pinned_candidates_skipped": 0
+    },
+    "duration_seconds": 12.59
+  },
+  {
+    "status": "partial",
+    "platform": "instagram",
+    "source_url": "https://www.instagram.com/anastasia_demy/",
+    "fetched_at": "2026-10-21T19:16:50.226134+00:00",
+    "missing_fields": [
+      "posts[0].is_pinned",
+      "posts[0].views",
+      "posts[1].is_pinned",
+      "posts[1].views",
+      "posts[2].is_pinned",
+      "posts[2].views",
+      "posts[3].is_pinned",
+      "posts[3].views",
+      "posts[4].is_pinned",
+      "posts[4].views"
+    ],
+    "warnings": [
+      "Conflicting following: embedded profile=564, metadata=581; using profile.",
+      "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed.",
+      "Only a bounded visible sample was collected. The platform's newest-post coverage and unknown pin status cannot be verified; statistics describe this sample only."
+    ],
+    "error": null,
+    "diagnostics": {
+      "screenshot": "diagnostics/356a2e0ebe8d45eabb306f22c662b6a7/page.png",
+      "id": "356a2e0ebe8d45eabb306f22c662b6a7",
+      "html": "diagnostics/356a2e0ebe8d45eabb306f22c662b6a7/evidence.html",
+      "stage": "extract",
+      "posts_found": 12,
+      "retention_days": 7,
+      "duration_seconds": 2.48
+    },
+    "profile": {
+      "username": "anastasia_demy",
+      "display_name": "𝑨𝑵𝑨𝑺𝑻𝑨𝑺𝑰𝑨 ♡",
+      "bio": "daily life, skincare & aesthetic content\nэстетика • уход за собой • легкие рецепты \nДобро пожаловать в мой girly blog 🫶🏼🌸🤍",
+      "followers": 1657,
+      "followers_raw": "1657",
+      "followers_is_approximate": false,
+      "metric_details": {
+        "followers": {
+          "value": 1657,
+          "display": "1657",
+          "precision": "reported",
+          "source": "embedded_profile_json.follower_count"
+        },
+        "following": {
+          "value": 564,
+          "display": "564",
+          "precision": "reported",
+          "source": "embedded_profile_json.following_count"
+        },
+        "posts": {
+          "value": 748,
+          "display": "748",
+          "precision": "reported",
+          "source": "page_metadata"
+        }
+      },
+      "verified": false,
+      "private": false,
+      "public_contacts": [],
+      "external_links": [
+        "https://pin.it/4gfHrTnKD"
+      ],
+      "source": "embedded_profile_json"
+    },
+    "posts": [
+      {
+        "id": "DeZKh6tjFHV",
+        "url": "https://www.instagram.com/p/DeZKh6tjFHV/",
+        "author": "anastasia_demy",
+        "type": "carousel",
+        "published_at": "2026-10-12T11:49:33+00:00",
+        "is_pinned": null,
+        "caption": "She’s a falloholic🍂🩶✨\n\ncroissants & coffee lover 🥐☕️🤎\n\nfavorite collage🫶🏼\n\njust me 🍁\n\noutfit details 🐾\n\nFall ✨\n\ncroissant & coffee again 🥰\n\n🩶\n\ntrending collage style 🐾\n\nOctober 🍁",
+        "fetched_at": "2026-10-21T19:16:51.442932+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 126,
+            "display": "126",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 5,
+            "display": "5",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 126,
+        "comments": 5
+      },
+      {
+        "id": "Ddt3fWajMeK",
+        "url": "https://www.instagram.com/p/Ddt3fWajMeK/",
+        "author": "anastasia_demy",
+        "type": "carousel",
+        "published_at": "2026-09-25T16:15:50+00:00",
+        "is_pinned": null,
+        "caption": "Life recently 🍂 \nSeptember days 🤎 \n.\n.\n.\n#aesthetic #pinterest #fall #september #love",
+        "fetched_at": "2026-10-21T19:16:52.611085+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 121,
+            "display": "121",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 6,
+            "display": "6",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 121,
+        "comments": 6
+      },
+      {
+        "id": "DdhUE6FjI2l",
+        "url": "https://www.instagram.com/p/DdhUE6FjI2l/",
+        "author": "anastasia_demy",
+        "type": "carousel",
+        "published_at": "2026-09-20T19:15:30+00:00",
+        "is_pinned": null,
+        "caption": "Лошади - новая любовь 🐎❤️ \n.\n.\n.\n#horses #pinterest #pinterestinspired #love #september",
+        "fetched_at": "2026-10-21T19:16:53.750557+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 127,
+            "display": "127",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 0,
+            "display": "0",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 127,
+        "comments": 0
+      },
+      {
+        "id": "Dcu8wHuMs2h",
+        "url": "https://www.instagram.com/reel/Dcu8wHuMs2h/",
+        "author": "anastasia_demy",
+        "type": "video",
+        "published_at": "2026-09-01T05:50:02+00:00",
+        "is_pinned": null,
+        "caption": "It’s officially fall 🍂✨🤎 \n.\n.\n.\nTags: #aesthetic #fall #september #gossipgirl #pinterest",
+        "fetched_at": "2026-10-21T19:16:54.578505+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 210,
+            "display": "210",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 2,
+            "display": "2",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 210,
+        "comments": 2
+      },
+      {
+        "id": "DcgEszwsAs6",
+        "url": "https://www.instagram.com/reel/DcgEszwsAs6/",
+        "author": "anastasia_demy",
+        "type": "video",
+        "published_at": "2026-08-26T11:11:03+00:00",
+        "is_pinned": null,
+        "caption": "My superpower 🦸🏼‍♀️❤️✨ \n.\n.\n.\nTags: #aesthetic #love #pinterest #happiness #pinterestinspired",
+        "fetched_at": "2026-10-21T19:16:55.522387+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 146,
+            "display": "146",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 2,
+            "display": "2",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 146,
+        "comments": 2
+      }
+    ],
+    "pinned_posts_skipped": [],
+    "summary": {
+      "posts_requested": 5,
+      "posts_collected": 5,
+      "posts_with_views": 0,
+      "median_views": null,
+      "min_views": null,
+      "max_views": null,
+      "sample_date_from": "2026-08-26T11:11:03+00:00",
+      "sample_date_to": "2026-10-12T11:49:33+00:00",
+      "pinned_excluded": 0,
+      "pin_status_unknown": 5,
+      "chronological_completeness_verified": false,
+      "views_are_unique_reach": false,
+      "posts_inspected": 8,
+      "pinned_candidates_skipped": 0
+    },
+    "duration_seconds": 22.46
+  },
+  {
+    "status": "partial",
+    "platform": "instagram",
+    "source_url": "https://www.instagram.com/qd.dr/",
+    "fetched_at": "2026-10-21T19:17:46.893026+00:00",
+    "missing_fields": [
+      "posts[0].is_pinned",
+      "posts[0].views",
+      "posts[1].is_pinned",
+      "posts[1].views",
+      "posts[2].is_pinned",
+      "posts[2].views",
+      "posts[3].is_pinned",
+      "posts[3].views",
+      "posts[4].is_pinned",
+      "posts[4].views"
+    ],
+    "warnings": [
+      "Conflicting followers: embedded profile=5306, metadata=5305; using profile.",
+      "Conflicting following: embedded profile=821, metadata=844; using profile.",
+      "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed.",
+      "Only a bounded visible sample was collected. The platform's newest-post coverage and unknown pin status cannot be verified; statistics describe this sample only."
+    ],
+    "error": null,
+    "diagnostics": {
+      "screenshot": "diagnostics/81638df21bbe419792d517161f3d76e6/page.png",
+      "id": "81638df21bbe419792d517161f3d76e6",
+      "html": "diagnostics/81638df21bbe419792d517161f3d76e6/evidence.html",
+      "stage": "extract",
+      "posts_found": 12,
+      "retention_days": 7,
+      "duration_seconds": 1.55
+    },
+    "profile": {
+      "username": "qd.dr",
+      "display_name": "Реут Дарья | fashion influencer | creator | Москва",
+      "bio": "снимаю ugc-контент для брендов\nобзоры, находки и аутфиты\nмой тг:",
+      "followers": 5306,
+      "followers_raw": "5306",
+      "followers_is_approximate": false,
+      "metric_details": {
+        "followers": {
+          "value": 5306,
+          "display": "5306",
+          "precision": "reported",
+          "source": "embedded_profile_json.follower_count"
+        },
+        "following": {
+          "value": 821,
+          "display": "821",
+          "precision": "reported",
+          "source": "embedded_profile_json.following_count"
+        },
+        "posts": {
+          "value": 509,
+          "display": "509",
+          "precision": "reported",
+          "source": "page_metadata"
+        }
+      },
+      "verified": false,
+      "private": false,
+      "public_contacts": [],
+      "external_links": [
+        "https://t.me/reytdaria1"
+      ],
+      "source": "embedded_profile_json"
+    },
+    "posts": [
+      {
+        "id": "DdRp51Gihk_",
+        "url": "https://www.instagram.com/p/DdRp51Gihk_/",
+        "author": "qd.dr",
+        "type": "carousel",
+        "published_at": "2026-09-14T17:18:22+00:00",
+        "is_pinned": null,
+        "caption": "«Кола оригинал стоит 200 рублей» (цитата Алины Шадрин)",
+        "fetched_at": "2026-10-21T19:17:48.728037+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 1,
+            "display": "1",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 1
+      },
+      {
+        "id": "Dcl9EXEKOcQ",
+        "url": "https://www.instagram.com/reel/Dcl9EXEKOcQ/",
+        "author": "qd.dr",
+        "type": "video",
+        "published_at": "2026-08-28T17:59:45+00:00",
+        "is_pinned": null,
+        "caption": "Хи-хи",
+        "fetched_at": "2026-10-21T19:17:51.945048+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 0,
+            "display": "0",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "DclXW9hK8Lu",
+        "url": "https://www.instagram.com/reel/DclXW9hK8Lu/",
+        "author": "qd.dr",
+        "type": "video",
+        "published_at": "2026-08-28T12:31:20+00:00",
+        "is_pinned": null,
+        "caption": "Орем))))\n@mc.kfc_",
+        "fetched_at": "2026-10-21T19:17:53.187476+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 2,
+            "display": "2",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 2
+      },
+      {
+        "id": "DchIUafqCDf",
+        "url": "https://www.instagram.com/reel/DchIUafqCDf/",
+        "author": "qd.dr",
+        "type": "video",
+        "published_at": "2026-08-26T21:04:12+00:00",
+        "is_pinned": null,
+        "caption": "винтажная одежда, обувь и аксессуары времен СССР, начиная с 20х и до 90х г ✨\n\n📍Москва \n«Киногардероб» находится в центре, М. Белорусская, выход 4, ул. Нижняя 5.\n\n@kinogarderob",
+        "fetched_at": "2026-10-21T19:17:54.627651+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 2,
+            "display": "2",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 2
+      },
+      {
+        "id": "DcJ8Njmij6M",
+        "url": "https://www.instagram.com/p/DcJ8Njmij6M/",
+        "author": "qd.dr",
+        "type": "carousel",
+        "published_at": "2026-08-17T20:53:02+00:00",
+        "is_pinned": null,
+        "caption": "🖕💅🏻",
+        "fetched_at": "2026-10-21T19:17:56.387543+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 2,
+            "display": "2",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 2
+      }
+    ],
+    "pinned_posts_skipped": [],
+    "summary": {
+      "posts_requested": 5,
+      "posts_collected": 5,
+      "posts_with_views": 0,
+      "median_views": null,
+      "min_views": null,
+      "max_views": null,
+      "sample_date_from": "2026-08-17T20:53:02+00:00",
+      "sample_date_to": "2026-09-14T17:18:22+00:00",
+      "pinned_excluded": 0,
+      "pin_status_unknown": 5,
+      "chronological_completeness_verified": false,
+      "views_are_unique_reach": false,
+      "posts_inspected": 8,
+      "pinned_candidates_skipped": 0
+    },
+    "duration_seconds": 42.47
+  },
+  {
+    "status": "partial",
+    "platform": "instagram",
+    "source_url": "https://www.instagram.com/iamkirawhokira/",
+    "fetched_at": "2026-10-21T19:17:34.260315+00:00",
+    "missing_fields": [
+      "posts[0].is_pinned",
+      "posts[0].views",
+      "posts[1].is_pinned",
+      "posts[1].views",
+      "posts[2].is_pinned",
+      "posts[2].views",
+      "posts[3].is_pinned",
+      "posts[3].views",
+      "posts[4].is_pinned",
+      "posts[4].views"
+    ],
+    "warnings": [
+      "Conflicting following: embedded profile=355, metadata=379; using profile.",
+      "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed.",
+      "Only a bounded visible sample was collected. The platform's newest-post coverage and unknown pin status cannot be verified; statistics describe this sample only."
+    ],
+    "error": null,
+    "diagnostics": {
+      "screenshot": "diagnostics/84aa03fb4c28481cb1fa81ffa99749eb/page.png",
+      "id": "84aa03fb4c28481cb1fa81ffa99749eb",
+      "html": "diagnostics/84aa03fb4c28481cb1fa81ffa99749eb/evidence.html",
+      "stage": "extract",
+      "posts_found": 12,
+      "retention_days": 7,
+      "duration_seconds": 1.56
+    },
+    "profile": {
+      "username": "iamkirawhokira",
+      "display_name": "ᴋɪʀᴀ♡︎ | beauty & fashion influencer",
+      "bio": "твой источник эстетики: образы, бьюти и лайфстайл\ncreative producer & UGC content for brands\nконсультации по съемке и блогу 🖇️",
+      "followers": 4241,
+      "followers_raw": "4241",
+      "followers_is_approximate": false,
+      "metric_details": {
+        "followers": {
+          "value": 4241,
+          "display": "4241",
+          "precision": "reported",
+          "source": "embedded_profile_json.follower_count"
+        },
+        "following": {
+          "value": 355,
+          "display": "355",
+          "precision": "reported",
+          "source": "embedded_profile_json.following_count"
+        },
+        "posts": {
+          "value": 368,
+          "display": "368",
+          "precision": "reported",
+          "source": "page_metadata"
+        }
+      },
+      "verified": false,
+      "private": false,
+      "public_contacts": [],
+      "external_links": [
+        "https://t.me/kirawhokira"
+      ],
+      "source": "embedded_profile_json"
+    },
+    "posts": [
+      {
+        "id": "DewBNZeN-0Y",
+        "url": "https://www.instagram.com/reel/DewBNZeN-0Y/",
+        "author": "iamkirawhokira",
+        "type": "video",
+        "published_at": "2026-10-21T08:51:31+00:00",
+        "is_pinned": null,
+        "caption": "Пойдем?🎨\n@paintyparty",
+        "fetched_at": "2026-10-21T19:17:35.185791+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 6,
+            "display": "6",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 6
+      },
+      {
+        "id": "DejaE-NiJGX",
+        "url": "https://www.instagram.com/p/DejaE-NiJGX/",
+        "author": "iamkirawhokira",
+        "type": "carousel",
+        "published_at": "2026-10-16T11:17:48+00:00",
+        "is_pinned": null,
+        "caption": "Это был прекрасный осенний день в окружении муз @dalba_russia и тренировкой от @theflex.ru \nпрожила маленькое американское кино будто 🙌🏼\n\nБесконечно благодарна, что однажды выбрала вести свой блог, благодаря которому - моя жизнь очень круто изменилась! 💔",
+        "fetched_at": "2026-10-21T19:17:36.651306+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 10,
+            "display": "10",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 10
+      },
+      {
+        "id": "DejPjvnIOyf",
+        "url": "https://www.instagram.com/reel/DejPjvnIOyf/",
+        "author": "iamkirawhokira",
+        "type": "video",
+        "published_at": "2026-10-16T09:47:07+00:00",
+        "is_pinned": null,
+        "caption": "skincare meditation💙✨",
+        "fetched_at": "2026-10-21T19:17:37.674513+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 7,
+            "display": "7",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 7
+      },
+      {
+        "id": "DefbjIeNiLP",
+        "url": "https://www.instagram.com/reel/DefbjIeNiLP/",
+        "author": "iamkirawhokira",
+        "type": "video",
+        "published_at": "2026-10-14T22:17:36+00:00",
+        "is_pinned": null,
+        "caption": "Говорят, мечты — для детей, а во взрослой жизни есть дела поважнее: работа, ипотека, «надо быть серьезным». И ты просто ставишь мечту на полку. \nНо однажды я поняла: если не сейчас, то когда?\nМне 31, и я пошла исполнять свою маленькую мечту - учиться играть на фортепиано с нуля.\nЯ нашла школу музыки - @firstmusicfamily , на уютной улочке китай-города, здесь много просторных светлых комнат, в каждой своя атмосфера и настроение. Но самое главное - это педагог. Здесь случилась любовь с первого занятия. Вирилада @ms.virilada - очень милая, внимательная , аккуратно погружает меня в теорию и практику музыки, мы нашли общий язык мгновенно, будто знали друг друга много лет.\nС таким наставником даже самое сложное кажется не так уж и страшно, а после занятия я всегда ухожу воодушевленная и счастливая .\n\nИ если ты давно о чем-то мечтаешь, или боишься начать, то пусть это видео будет тебе как маленький ЗНАК, что сейчас самое время -  попробовать🙏🏻\n\nМечты не спрашивают, сколько тебе лет. Они просто ждут когда ты решишься.",
+        "fetched_at": "2026-10-21T19:17:41.050892+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 7,
+            "display": "7",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 7
+      },
+      {
+        "id": "DefQYmhNWfv",
+        "url": "https://www.instagram.com/reel/DefQYmhNWfv/",
+        "author": "iamkirawhokira",
+        "type": "video",
+        "published_at": "2026-10-14T20:38:54+00:00",
+        "is_pinned": null,
+        "caption": "Очень боялась выкладывать это видео, потому что я только в начале своего пути на встречу заветной мечте - научиться красиво играть на фортепиано🥹\nПоэтому не судите строго🙏🏻💔\n\nТакие вот мои маленькие промежуточные достижения в школе музыки @firstmusicfamily - место моей души 🙌🏼",
+        "fetched_at": "2026-10-21T19:17:39.195276+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 173,
+            "display": "173",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 24,
+            "display": "24",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 173,
+        "comments": 24
+      }
+    ],
+    "pinned_posts_skipped": [],
+    "summary": {
+      "posts_requested": 5,
+      "posts_collected": 5,
+      "posts_with_views": 0,
+      "median_views": null,
+      "min_views": null,
+      "max_views": null,
+      "sample_date_from": "2026-10-14T20:38:54+00:00",
+      "sample_date_to": "2026-10-21T08:51:31+00:00",
+      "pinned_excluded": 0,
+      "pin_status_unknown": 5,
+      "chronological_completeness_verified": false,
+      "views_are_unique_reach": false,
+      "posts_inspected": 8,
+      "pinned_candidates_skipped": 0
+    },
+    "duration_seconds": 28.05
+  },
+  {
+    "status": "partial",
+    "platform": "instagram",
+    "source_url": "https://www.instagram.com/lilly_askarova/",
+    "fetched_at": "2026-10-21T19:18:01.735230+00:00",
+    "missing_fields": [
+      "posts[0].is_pinned",
+      "posts[0].views",
+      "posts[1].is_pinned",
+      "posts[1].views",
+      "posts[2].is_pinned",
+      "posts[2].views",
+      "posts[3].is_pinned",
+      "posts[3].views",
+      "posts[4].is_pinned",
+      "posts[4].views"
+    ],
+    "warnings": [
+      "Conflicting following: embedded profile=182, metadata=188; using profile.",
+      "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed.",
+      "Only a bounded visible sample was collected. The platform's newest-post coverage and unknown pin status cannot be verified; statistics describe this sample only."
+    ],
+    "error": null,
+    "diagnostics": {
+      "screenshot": "diagnostics/8d8bba7e7f8942eebcaac4695a4f3553/page.png",
+      "id": "8d8bba7e7f8942eebcaac4695a4f3553",
+      "html": "diagnostics/8d8bba7e7f8942eebcaac4695a4f3553/evidence.html",
+      "stage": "extract",
+      "posts_found": 12,
+      "retention_days": 7,
+      "duration_seconds": 1.54
+    },
+    "profile": {
+      "username": "lilly_askarova",
+      "display_name": "Lilly Askarova | minimalist | aesthete",
+      "bio": "beauty routine • wellness • unpackings\n✉️lillyaskarova@gmail.com\n📍Russia\nPortfolio ⬇️",
+      "followers": 4675,
+      "followers_raw": "4675",
+      "followers_is_approximate": false,
+      "metric_details": {
+        "followers": {
+          "value": 4675,
+          "display": "4675",
+          "precision": "reported",
+          "source": "embedded_profile_json.follower_count"
+        },
+        "following": {
+          "value": 182,
+          "display": "182",
+          "precision": "reported",
+          "source": "embedded_profile_json.following_count"
+        },
+        "posts": {
+          "value": 417,
+          "display": "417",
+          "precision": "reported",
+          "source": "page_metadata"
+        }
+      },
+      "verified": false,
+      "private": false,
+      "public_contacts": [
+        {
+          "type": "email",
+          "value": "lillyaskarova@gmail.com",
+          "source": "public_bio"
+        }
+      ],
+      "external_links": [
+        "https://t.me/lilly_ugccreator",
+        "http://www.tiktok.com/@lilly_askarova"
+      ],
+      "source": "embedded_profile_json"
+    },
+    "posts": [
+      {
+        "id": "Det2HJtiMkE",
+        "url": "https://www.instagram.com/p/Det2HJtiMkE/",
+        "author": "lilly_askarova",
+        "type": "carousel",
+        "published_at": "2026-10-20T12:35:11+00:00",
+        "is_pinned": null,
+        "caption": "my vitamin D (d’Alba 💛)\n\nя уже делилась в сторис, что мне пришли две новинки от d’Alba: pdrn repair capsule cream и collagen tension exo cream. и вот спустя почти месяц использования могу сказать, что мне понравились оба, оба максимально питают и увлажняют, но крем с pdrn как будто даже не требует после себя нанесения тональника - настолько после него ровный тон становится ✨",
+        "fetched_at": "2026-10-21T19:18:03.513512+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 6,
+            "display": "6",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 6
+      },
+      {
+        "id": "DerFLpKouxF",
+        "url": "https://www.instagram.com/reel/DerFLpKouxF/",
+        "author": "lilly_askarova",
+        "type": "video",
+        "published_at": "2026-10-19T11:05:27+00:00",
+        "is_pinned": null,
+        "caption": "кажется, я нашла ещё одну интересную линейку корейского ухода 🤍\n\nBLITHE — это средства с разными задачами:\n\nсыворотка TXA 3.0 для кожи с пигментацией и неровным тоном (ЗЯ 19000217353)\n\nсыворотка Niacinamide 22% для сужения пор (ЗЯ 19000449277)\n\nпитательная сыворотка-крем Tundra Chaga для увлажнения и поддержки защитного барьера (ЗЯ 12420200007)\n\nкрем для кожи вокруг глаз Caffeine 1.0 — от гусиных лапок, отеков и темных кругов (ЗЯ 19000291946)\n\n#koreanskincareroutine #koreanskincareproducts #kbeautyskincare #glowskincare #glowingskincareroutine",
+        "fetched_at": "2026-10-21T19:18:04.632408+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 2,
+            "display": "2",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 2
+      },
+      {
+        "id": "DehChtWopwu",
+        "url": "https://www.instagram.com/reel/DehChtWopwu/",
+        "author": "lilly_askarova",
+        "type": "video",
+        "published_at": "2026-10-15T13:17:29+00:00",
+        "is_pinned": null,
+        "caption": "girl apartment \n\n#pinterestaesthetic #cleangirlaesthetic #homebody #slowlifestyle #slowliving \n\n[selfcare, aesthetic, aesthetically, wellness, beauty, homebody]",
+        "fetched_at": "2026-10-21T19:18:05.925200+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 95,
+            "display": "95",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 4,
+            "display": "4",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 95,
+        "comments": 4
+      },
+      {
+        "id": "Ded5AF6xEX8",
+        "url": "https://www.instagram.com/reel/Ded5AF6xEX8/",
+        "author": "lilly_askarova",
+        "type": "video",
+        "published_at": "2026-10-14T08:13:49+00:00",
+        "is_pinned": null,
+        "caption": "don’t forget your neck 🧴\n\nстыдно признаться, но я не знала, что существует специальный уход для шеи, и наносила на нее тот же крем, что и на лицо. оказывается, у medipeel есть отдельная линейка для этой зоны: крем и стик\n\n[skincare, selfcare, neck care essentials, morning routine, beauty routine, beauty content creator]\n\n#cleangirlaesthetic #medipeel #medipeelnaite #morningroutine #ugcrussia",
+        "fetched_at": "2026-10-21T19:18:07.524201+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 2,
+            "display": "2",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 2
+      },
+      {
+        "id": "DeRugbeI3NS",
+        "url": "https://www.instagram.com/reel/DeRugbeI3NS/",
+        "author": "lilly_askarova",
+        "type": "video",
+        "published_at": "2026-10-09T14:46:34+00:00",
+        "is_pinned": null,
+        "caption": "fall skincare routine \n\nосень - время для активов\n\nбустер и крем для кожи вокруг глаз @medipeel.cis\n\n[skincare, aesthetic, evening routine, skincare routine, slow life, korean skincare, beauty content creator, fall skincare]\n\n#medipeel #medipeelretinal #cleangirlaesthetic #beautycontentcreator #fallskincare",
+        "fetched_at": "2026-10-21T19:18:09.132252+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 3,
+            "display": "3",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 4,
+            "display": "4",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 3,
+        "comments": 4
+      }
+    ],
+    "pinned_posts_skipped": [],
+    "summary": {
+      "posts_requested": 5,
+      "posts_collected": 5,
+      "posts_with_views": 0,
+      "median_views": null,
+      "min_views": null,
+      "max_views": null,
+      "sample_date_from": "2026-10-09T14:46:34+00:00",
+      "sample_date_to": "2026-10-20T12:35:11+00:00",
+      "pinned_excluded": 0,
+      "pin_status_unknown": 5,
+      "chronological_completeness_verified": false,
+      "views_are_unique_reach": false,
+      "posts_inspected": 8,
+      "pinned_candidates_skipped": 0
+    },
+    "duration_seconds": 54.94
+  },
+  {
+    "status": "partial",
+    "platform": "instagram",
+    "source_url": "https://www.instagram.com/alena.alexxandrova/",
+    "fetched_at": "2026-10-21T19:17:18.786821+00:00",
+    "missing_fields": [
+      "posts[0].is_pinned",
+      "posts[0].views",
+      "posts[1].is_pinned",
+      "posts[1].views",
+      "posts[2].is_pinned",
+      "posts[2].views",
+      "posts[3].is_pinned",
+      "posts[3].views",
+      "posts[4].is_pinned",
+      "posts[4].views"
+    ],
+    "warnings": [
+      "Conflicting following: embedded profile=386, metadata=394; using profile.",
+      "Post links are a limited page sample, may include pinned/collaborative posts, and are not guaranteed newest. No audience demographics or video quality assessed.",
+      "Only a bounded visible sample was collected. The platform's newest-post coverage and unknown pin status cannot be verified; statistics describe this sample only."
+    ],
+    "error": null,
+    "diagnostics": {
+      "screenshot": "diagnostics/d23f42ccb554443f8fe7773fea5738dd/page.png",
+      "id": "d23f42ccb554443f8fe7773fea5738dd",
+      "html": "diagnostics/d23f42ccb554443f8fe7773fea5738dd/evidence.html",
+      "stage": "extract",
+      "posts_found": 12,
+      "retention_days": 7,
+      "duration_seconds": 1.34
+    },
+    "profile": {
+      "username": "alena.alexxandrova",
+      "display_name": "Alena | content creator | ugc",
+      "bio": "- influencer & UGC creator \n- создаю контент для брендов \n📍Saint-Petersburg",
+      "followers": 4313,
+      "followers_raw": "4313",
+      "followers_is_approximate": false,
+      "metric_details": {
+        "followers": {
+          "value": 4313,
+          "display": "4313",
+          "precision": "reported",
+          "source": "embedded_profile_json.follower_count"
+        },
+        "following": {
+          "value": 386,
+          "display": "386",
+          "precision": "reported",
+          "source": "embedded_profile_json.following_count"
+        },
+        "posts": {
+          "value": 362,
+          "display": "362",
+          "precision": "reported",
+          "source": "page_metadata"
+        }
+      },
+      "verified": false,
+      "private": false,
+      "public_contacts": [],
+      "external_links": [],
+      "source": "embedded_profile_json"
+    },
+    "posts": [
+      {
+        "id": "Ddb2vzLDO7U",
+        "url": "https://www.instagram.com/p/Ddb2vzLDO7U/",
+        "author": "alena.alexxandrova",
+        "type": "carousel",
+        "published_at": "2026-09-18T16:23:00+00:00",
+        "is_pinned": null,
+        "caption": "warm autumn🍂\n\n#autumn #креатор #спб #styleinspo #styleinfluencer",
+        "fetched_at": "2026-10-21T19:17:20.200583+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 1419,
+            "display": "1419",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 79,
+            "display": "79",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 1419,
+        "comments": 79
+      },
+      {
+        "id": "DdHK8ItMglE",
+        "url": "https://www.instagram.com/reel/DdHK8ItMglE/",
+        "author": "alena.alexxandrova",
+        "type": "video",
+        "published_at": "2026-09-10T15:38:00+00:00",
+        "is_pinned": null,
+        "caption": "soon…🍂🪵🥮\n\n#осень #autumn #спб #autumniscoming #autumnmood",
+        "fetched_at": "2026-10-21T19:17:21.586909+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 641,
+            "display": "641",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 62,
+            "display": "62",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 641,
+        "comments": 62
+      },
+      {
+        "id": "Dc_a0EMjNxy",
+        "url": "https://www.instagram.com/p/Dc_a0EMjNxy/",
+        "author": "alena.alexxandrova",
+        "type": "carousel",
+        "published_at": "2026-09-07T15:20:11+00:00",
+        "is_pinned": null,
+        "caption": "autumn is in the air🍂\n\nтренч: @limestorecom \nбрюки: @befree_fashion \nтоп: @crate.ru \nсумка: @zarina_fashion \n\n#спб #креатор #ootdfashion #styleinspo #ootd",
+        "fetched_at": "2026-10-21T19:17:24.255324+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 5963,
+            "display": "5963",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 93,
+            "display": "93",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 5963,
+        "comments": 93
+      },
+      {
+        "id": "Dcym3b7jd8y",
+        "url": "https://www.instagram.com/p/Dcym3b7jd8y/",
+        "author": "mashu_love",
+        "type": "carousel",
+        "published_at": "2026-09-02T15:55:00+00:00",
+        "is_pinned": null,
+        "caption": "Besties 🍨🤍☕️\n.\n#autumnvibes🍁 #bestfriend #образы #ugc #ootd",
+        "fetched_at": "2026-10-21T19:17:26.081598+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 6179,
+            "display": "6179",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 150,
+            "display": "150",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 6179,
+        "comments": 150
+      },
+      {
+        "id": "DctdhGxjPr-",
+        "url": "https://www.instagram.com/p/DctdhGxjPr-/",
+        "author": "alena.alexxandrova",
+        "type": "carousel",
+        "published_at": "2026-08-31T15:57:29+00:00",
+        "is_pinned": null,
+        "caption": "bye bye summer🗝️♥️🎞️\n\nлюбимое время года всегда так быстро пролетает💔 лето, я буду по тебе скучать!\n\n#summervibes #ugc #креатор #спб #byebyesummer",
+        "fetched_at": "2026-10-21T19:17:27.373685+00:00",
+        "source": "embedded_post_json",
+        "metric_details": {
+          "likes": {
+            "value": 495,
+            "display": "495",
+            "precision": "reported",
+            "source": "embedded_post_json.like_count"
+          },
+          "comments": {
+            "value": 41,
+            "display": "41",
+            "precision": "reported",
+            "source": "embedded_post_json.comment_count"
+          },
+          "views": null
+        },
+        "views": null,
+        "likes": 495,
+        "comments": 41
+      }
+    ],
+    "pinned_posts_skipped": [],
+    "summary": {
+      "posts_requested": 5,
+      "posts_collected": 5,
+      "posts_with_views": 0,
+      "median_views": null,
+      "min_views": null,
+      "max_views": null,
+      "sample_date_from": "2026-08-31T15:57:29+00:00",
+      "sample_date_to": "2026-09-18T16:23:00+00:00",
+      "pinned_excluded": 0,
+      "pin_status_unknown": 5,
+      "chronological_completeness_verified": false,
+      "views_are_unique_reach": false,
+      "posts_inspected": 8,
+      "pinned_candidates_skipped": 0
+    },
+    "duration_seconds": 15.33
+  }
+]
