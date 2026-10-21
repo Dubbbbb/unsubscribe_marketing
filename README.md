@@ -1,7 +1,7 @@
 # Маркетинг сервиса проверки невзаимных подписок
 
 Рабочая база проекта **unsubscribe inst**. Репозиторий: [Dubbbbb/unsubscribe_marketing](https://github.com/Dubbbbb/unsubscribe_marketing).
-Обновлено: **21 октября 2026**, Тбилиси.
+Обновлено: **22 октября 2026**, Тбилиси.
 
 ## Где продолжать работу
 
@@ -12,9 +12,10 @@
 5. [Гипотезы, экономика и аналитика](docs/05-experiments.md).
 6. [Ближайшие действия и открытые вопросы](docs/06-next-steps.md).
 7. [Боевой тест Instagram / Crawl4AI](docs/07-instagram-mcp-field-test.md).
-8. [Актуальный список 10 Instagram-кандидатов и вопросы для переговоров](docs/08-instagram-outreach-shortlist.md).
+8. [Актуальный список 9 одобренных Instagram-кандидатов и вопросы для переговоров](docs/08-instagram-outreach-shortlist.md).
+9. [TikTok: пять кандидатов, контакты и боевой тест MCP](docs/09-tiktok-creators-and-mcp-test.md).
 
-Актуальное решение 21 октября: владелец выбрал menchikovaa, sofa_beauty, its.yildiz_, lilly_askarova; ещё шесть предложены в документе 08. katerina.koroleva89, iamkirawhokira и alena.alexxandrova исключены. План переговоров — 22 октября; сообщения пока не отправлялись.
+Актуальное решение: одобрены девять Instagram-кандидатов из документа 08; tasha6892 исключена вместе с ранее отклонёнными katerina.koroleva89, iamkirawhokira и alena.alexxandrova. Для TikTok масштаб увеличен в 2–3 раза; пять новых предложений и результаты проверки MCP — в документе 09. TikTok-кандидаты ещё не одобрены. Сообщения авторам не отправлялись.
 
 ## Текущее положение
 
