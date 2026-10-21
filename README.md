@@ -11,6 +11,10 @@
 4. [Итоги звонка с digital-маркетологом](docs/04-marketing-call.md).
 5. [Гипотезы, экономика и аналитика](docs/05-experiments.md).
 6. [Ближайшие действия и открытые вопросы](docs/06-next-steps.md).
+7. [Боевой тест Instagram / Crawl4AI](docs/07-instagram-mcp-field-test.md).
+8. [Актуальный список 10 Instagram-кандидатов и вопросы для переговоров](docs/08-instagram-outreach-shortlist.md).
+
+Актуальное решение 21 октября: владелец выбрал menchikovaa, sofa_beauty, its.yildiz_, lilly_askarova; ещё шесть предложены в документе 08. katerina.koroleva89, iamkirawhokira и alena.alexxandrova исключены. План переговоров — 22 октября; сообщения пока не отправлялись.
 
 ## Текущее положение
 
