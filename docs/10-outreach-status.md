@@ -69,3 +69,4 @@
 |---|---|---|---|
 | kamsford | Instagram Direct | 2026-11-05 | Отправлено, подтверждено в диалоге https://www.instagram.com/direct/t/103784187687480/; не дублировать |
 | svetlana7_popova | Instagram Direct | 2026-11-05 | Отправлено, подтверждено в https://www.instagram.com/direct/t/120269219360617/; Telegram Svet_722 — канал без личного контакта; не дублировать |
+| kety.content | Instagram Direct | 2026-11-05 | Отправлено, подтверждено в https://www.instagram.com/direct/t/107356113994920/; не дублировать |
