@@ -72,3 +72,4 @@
 | kety.content | Instagram Direct | 2026-11-05 | Отправлено, подтверждено в https://www.instagram.com/direct/t/107356113994920/; не дублировать |
 | nkarachok | Instagram Direct @pr.nkarachok | 2026-11-05 | Отправлено рекламному контакту из био https://www.instagram.com/nkarachok/; подтверждено в https://www.instagram.com/direct/t/17842982127688929; не дублировать |
 | paulina.ruh | Instagram Direct | 2026-11-05 | Отправлено, подтверждено в https://www.instagram.com/direct/t/105863800814014/; palirur — канал без личного контакта; не дублировать |
+| tata_lifestyle | Instagram Direct | 2026-11-05 | Отправлено, подтверждено в https://www.instagram.com/direct/t/119936069396928/; в канале tatalifestylensk найден https://t.me/tata_lifestyle, но Telegram Web не авторизован; не дублировать |
