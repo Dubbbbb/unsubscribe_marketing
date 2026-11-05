@@ -75,3 +75,4 @@
 | tata_lifestyle | Instagram Direct | 2026-11-05 | Отправлено, подтверждено в https://www.instagram.com/direct/t/119936069396928/; в канале tatalifestylensk найден https://t.me/tata_lifestyle, но Telegram Web не авторизован; не дублировать |
 | varyaway | Instagram Direct | 2026-11-05 | Отправлено, подтверждено в https://www.instagram.com/direct/t/101297647937979/; Telegram varyawayy — канал; не дублировать |
 | liza_shitova | Instagram Direct | 2026-11-05 | Отправлено, подтверждено в https://www.instagram.com/direct/t/100107161394775/; Telegram liza_shitovamua — канал; не дублировать |
+| d_a_kazakova | Instagram Direct | 2026-11-05 | Отправлено, подтверждено в https://www.instagram.com/direct/t/118661189523789/; Telegram d_a_kazakova_ugc — канал; не дублировать |
